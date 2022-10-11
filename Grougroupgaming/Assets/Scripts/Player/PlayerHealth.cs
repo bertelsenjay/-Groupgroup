@@ -12,7 +12,7 @@ public class PlayerHealth : MonoBehaviour
     public TextMeshProUGUI healthText;
     void Update()
     {
-        //healthText.text = "Health: " + health;
+        healthText.text = "Health: " + health;
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
