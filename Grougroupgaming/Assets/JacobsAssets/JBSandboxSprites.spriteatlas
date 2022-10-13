@@ -45,6 +45,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 2800000, guid: 455c45635027b1f4a84f1c5dc52c6fa0, type: 3}
+    - {fileID: 2800000, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -69,6 +70,28 @@ SpriteAtlas:
   - {fileID: -1096091077, guid: 455c45635027b1f4a84f1c5dc52c6fa0, type: 3}
   - {fileID: -732139891, guid: 455c45635027b1f4a84f1c5dc52c6fa0, type: 3}
   - {fileID: 798050390, guid: 455c45635027b1f4a84f1c5dc52c6fa0, type: 3}
+  - {fileID: 1765835066, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: 997015619, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: -1949738464, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: -535791641, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: 189435727, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: -781609749, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: 1805253080, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: -593870811, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: 1360285937, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: -314813302, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: 1617556062, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: 1008531660, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: 470961769, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: -62810925, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: 1080417817, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: -1132542985, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: 649486913, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: -1420447467, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: 1039993127, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: 874669641, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: -1907261544, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: 1561903491, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
   m_PackedSpriteNamesToIndex:
   - TownGrassTileset_18
   - TownGrassTileset_13
@@ -89,6 +112,28 @@ SpriteAtlas:
   - TownGrassTileset_5
   - TownGrassTileset_6
   - TownGrassTileset_7
+  - TownGrassCliffs_3
+  - TownGrassCliffs_2
+  - TownGrassCliffs_1
+  - TownGrassCliffs_0
+  - TownGrassCliffs_7
+  - TownGrassCliffs_6
+  - TownGrassCliffs_5
+  - TownGrassCliffs_4
+  - TownGrassCliffs_9
+  - TownGrassCliffs_8
+  - TownGrassCliffs_21
+  - TownGrassCliffs_20
+  - TownGrassCliffs_16
+  - TownGrassCliffs_17
+  - TownGrassCliffs_14
+  - TownGrassCliffs_15
+  - TownGrassCliffs_12
+  - TownGrassCliffs_13
+  - TownGrassCliffs_10
+  - TownGrassCliffs_11
+  - TownGrassCliffs_18
+  - TownGrassCliffs_19
   m_RenderDataMap: {}
   m_Tag: JBSandboxSprites
   m_IsVariant: 0
