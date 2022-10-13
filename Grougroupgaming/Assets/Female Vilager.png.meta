@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4280511a06a40cf47936889cc90a266a
+guid: d13e04b412405e943915595878d91a0d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Male Vilager_0
+      name: Female Vilager_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fca0fef2b69667458bbfcd757c90250
-      internalID: -706829684
+      spriteID: 333aeaa40cf835a45a179417d8f7844d
+      internalID: -778814981
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male Vilager_1
+      name: Female Vilager_1
       rect:
         serializedVersion: 2
         x: 32
@@ -140,14 +140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be25fff6e05240b4987e2b4428de8d4f
-      internalID: -219591146
+      spriteID: 7025a7e1a4577ad488a998adb0016954
+      internalID: 1816256218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male Vilager_2
+      name: Female Vilager_2
       rect:
         serializedVersion: 2
         x: 64
@@ -161,14 +161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b77260378d3c2d40953ea40024ecb1a
-      internalID: -1430629536
+      spriteID: e2258dbabd985854d93bb1ff1bb604f8
+      internalID: 620492309
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male Vilager_3
+      name: Female Vilager_3
       rect:
         serializedVersion: 2
         x: 96
@@ -182,14 +182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d90560657b811594989b438beb71933a
-      internalID: -1484746291
+      spriteID: 0dba99f9870eb324c8b180fd848d3ac5
+      internalID: 1755997244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male Vilager_4
+      name: Female Vilager_4
       rect:
         serializedVersion: 2
         x: 0
@@ -203,14 +203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d18410bc6e38cab4f99d94b1a9c912df
-      internalID: -464375930
+      spriteID: 467179a11313e24469e96dee99657485
+      internalID: 505628562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male Vilager_5
+      name: Female Vilager_5
       rect:
         serializedVersion: 2
         x: 32
@@ -224,14 +224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c3881e2a28f47e41976bbb2d64de549
-      internalID: 377597941
+      spriteID: 19b2e148c4927204088c38e31b69ad9a
+      internalID: -218773368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male Vilager_6
+      name: Female Vilager_6
       rect:
         serializedVersion: 2
         x: 64
@@ -245,14 +245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8929f9401c3813d4ead2133ff9a6e793
-      internalID: 621502352
+      spriteID: 4d21dffcf4e0c6a41ac3d58d02fa7d6c
+      internalID: 125023606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male Vilager_7
+      name: Female Vilager_7
       rect:
         serializedVersion: 2
         x: 96
@@ -266,14 +266,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3eba23ede603f842a61facb7bd4f6ba
-      internalID: 148580511
+      spriteID: 369f1e4ef6618fb4698c25cfcc22a2b2
+      internalID: -14864886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male Vilager_8
+      name: Female Vilager_8
       rect:
         serializedVersion: 2
         x: 0
@@ -287,14 +287,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 797741c40f59b5c4cbd080edd8581487
-      internalID: -553559606
+      spriteID: c24bf88aa8982a0489f1ebbe8b54d900
+      internalID: -1865188138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male Vilager_9
+      name: Female Vilager_9
       rect:
         serializedVersion: 2
         x: 32
@@ -308,14 +308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a74c8598b3405d645a3cd1e1bebb7210
-      internalID: -1550192901
+      spriteID: 7452a4d4594b6ad4a8a2b5886d875fca
+      internalID: -953165734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male Vilager_10
+      name: Female Vilager_10
       rect:
         serializedVersion: 2
         x: 64
@@ -329,14 +329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20920b9f3292cc142bb40418637629cb
-      internalID: 795423837
+      spriteID: c9cae3c2915ad0241831e4fa2277ced8
+      internalID: -1766610286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male Vilager_11
+      name: Female Vilager_11
       rect:
         serializedVersion: 2
         x: 96
@@ -350,14 +350,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08bc66631b7d57d4a9daa94fe03db15c
-      internalID: 2007946421
+      spriteID: 6c189d926a6890c49967dfb1c1d02c10
+      internalID: -1754848447
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male Vilager_12
+      name: Female Vilager_12
       rect:
         serializedVersion: 2
         x: 0
@@ -371,14 +371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b16c55024a2afd478ea53a706a65906
-      internalID: 74524460
+      spriteID: 02d623f2ab0ba6446856fe390363680f
+      internalID: 1771699700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male Vilager_13
+      name: Female Vilager_13
       rect:
         serializedVersion: 2
         x: 32
@@ -392,14 +392,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13aa345e6b9744248acb88545a6cd063
-      internalID: -1214243682
+      spriteID: 76a09d4f00d95a34186e68640934c7a9
+      internalID: 1982026230
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male Vilager_14
+      name: Female Vilager_14
       rect:
         serializedVersion: 2
         x: 64
@@ -413,8 +413,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca4f41373d9ecdf41a337a303d69b795
-      internalID: 1728904009
+      spriteID: 9a4fa619f09d54b4b999620e414c14a6
+      internalID: 1407902113
       vertices: []
       indices: 
       edges: []
@@ -430,21 +430,21 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Male Vilager_12: 74524460
-      Male Vilager_7: 148580511
-      Male Vilager_11: 2007946421
-      Male Vilager_2: -1430629536
-      Male Vilager_13: -1214243682
-      Male Vilager_4: -464375930
-      Male Vilager_6: 621502352
-      Male Vilager_8: -553559606
-      Male Vilager_5: 377597941
-      Male Vilager_3: -1484746291
-      Male Vilager_9: -1550192901
-      Male Vilager_10: 795423837
-      Male Vilager_14: 1728904009
-      Male Vilager_1: -219591146
-      Male Vilager_0: -706829684
+      Female Vilager_10: -1766610286
+      Female Vilager_6: 125023606
+      Female Vilager_0: -778814981
+      Female Vilager_2: 620492309
+      Female Vilager_7: -14864886
+      Female Vilager_1: 1816256218
+      Female Vilager_8: -1865188138
+      Female Vilager_13: 1982026230
+      Female Vilager_14: 1407902113
+      Female Vilager_3: 1755997244
+      Female Vilager_12: 1771699700
+      Female Vilager_9: -953165734
+      Female Vilager_11: -1754848447
+      Female Vilager_5: -218773368
+      Female Vilager_4: 505628562
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

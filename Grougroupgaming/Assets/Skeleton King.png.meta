@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 70ca7a78994968d4895293b5f9ac32fc
+guid: ddf0c3f2d8c3eaa41bbb38bd98ea4a05
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,7 +105,112 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bandit Leader_0
+      name: Skeleton King_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3c8a3a84d59854bb05d702ec0ac968
+      internalID: -2050029621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton King_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9becc280943c90c4abe1bfd5375b5669
+      internalID: -277426883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton King_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbae2c15e12cd1e4889917fad775e61d
+      internalID: -346858532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton King_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc25d96926b0cc41b6a8b895d998a48
+      internalID: -306591325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton King_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b3674dccc19de488bb2d198d9fe071
+      internalID: -645782567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton King_5
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a873301c6024979439610a8834f9c69c
-      internalID: -803799368
+      spriteID: 4b23586a3a6d31c4581d418ce88992a4
+      internalID: 1064344008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_1
+      name: Skeleton King_6
       rect:
         serializedVersion: 2
         x: 32
@@ -140,14 +245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 180fafd17b2cc0747ae4c3de2373c380
-      internalID: -1134509725
+      spriteID: 73aaf724fac9c26498c9a6379035aeaf
+      internalID: -684336144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_2
+      name: Skeleton King_7
       rect:
         serializedVersion: 2
         x: 64
@@ -161,14 +266,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c65d7aea178820b47a0c1aa022423540
-      internalID: 1804547092
+      spriteID: fa4f187457b6bb84996f51cf22b4733e
+      internalID: -1466448263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_3
+      name: Skeleton King_8
       rect:
         serializedVersion: 2
         x: 96
@@ -182,14 +287,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9210e28e9a3d554196310024bbdfffb
-      internalID: -1403655647
+      spriteID: eccffe21351bb0647bb7ffe8d7327c62
+      internalID: -802031453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_4
+      name: Skeleton King_9
       rect:
         serializedVersion: 2
         x: 128
@@ -203,14 +308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 868016d758cb45947b0fdd693e71cd3e
-      internalID: -672858075
+      spriteID: ae98bd9cffde61b4db331a9429517ec7
+      internalID: 412860390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_5
+      name: Skeleton King_10
       rect:
         serializedVersion: 2
         x: 0
@@ -224,14 +329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 596f8b597448375478757ac759e514a2
-      internalID: 708767504
+      spriteID: 530ff50bab2ec0f428ffe3aab03c9b63
+      internalID: -1699184862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_6
+      name: Skeleton King_11
       rect:
         serializedVersion: 2
         x: 32
@@ -245,14 +350,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d6fcc45e9857174e934c77743aa76be
-      internalID: 1862524476
+      spriteID: 06a5d3100936146498b1f267a1e86824
+      internalID: -1901099137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_7
+      name: Skeleton King_12
       rect:
         serializedVersion: 2
         x: 64
@@ -266,14 +371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c954854d039dd14a87bdb7eec3c5380
-      internalID: -1291619956
+      spriteID: 704ace5b7d81a9c4f94ded3b4b7b9f68
+      internalID: -790339821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_8
+      name: Skeleton King_13
       rect:
         serializedVersion: 2
         x: 96
@@ -287,14 +392,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6e96bb14068e1a49abae46b99b3c05e
-      internalID: 228275650
+      spriteID: 4f50fe2abffb40849914171db6937cc2
+      internalID: -846772247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_9
+      name: Skeleton King_14
       rect:
         serializedVersion: 2
         x: 128
@@ -308,14 +413,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e0ccf13b71632648aed519787922ec8
-      internalID: -189738765
+      spriteID: 0b7c97445139b3943b00a658c115dc97
+      internalID: -571330442
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_10
+      name: Skeleton King_15
       rect:
         serializedVersion: 2
         x: 0
@@ -329,14 +434,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba6830069e814f54eaaa570c027f33ab
-      internalID: -764603648
+      spriteID: 642c30c32422d224c8fa17d1faeeadd7
+      internalID: -1683596481
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_11
+      name: Skeleton King_16
       rect:
         serializedVersion: 2
         x: 32
@@ -350,14 +455,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c67f6e24d6b215b49b8afe92cc6f02dc
-      internalID: 1065261656
+      spriteID: c60ed896c71f5d141878e5921def9061
+      internalID: -1389358116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_12
+      name: Skeleton King_17
       rect:
         serializedVersion: 2
         x: 64
@@ -371,14 +476,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d52eae304a0d61419cda4ab168818b1
-      internalID: 1936566855
+      spriteID: 88a9272c4980c5940b0256fca1953e2e
+      internalID: -869897258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_13
+      name: Skeleton King_18
       rect:
         serializedVersion: 2
         x: 96
@@ -392,14 +497,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 343bca37a7fd8fc488a710d7fe2da0b1
-      internalID: -440412846
+      spriteID: a1b69ff5b0159904f82e42ed906b5ebb
+      internalID: -1224851957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_14
+      name: Skeleton King_19
       rect:
         serializedVersion: 2
         x: 128
@@ -413,14 +518,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef1661a15a1237341a1824928b79517c
-      internalID: 1112781878
+      spriteID: c6fe3b757afb51a4cae11bfee5bdbf3a
+      internalID: 1380137545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_15
+      name: Skeleton King_20
       rect:
         serializedVersion: 2
         x: 0
@@ -434,14 +539,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12c70394cd4f0fc469f85c4c27d3746c
-      internalID: 801434845
+      spriteID: 4598eba5688d4c243abdf97f14c117c5
+      internalID: 1260217316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_16
+      name: Skeleton King_21
       rect:
         serializedVersion: 2
         x: 32
@@ -455,14 +560,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dddf2f8b466e66946a15747802501d2c
-      internalID: -474527949
+      spriteID: 0d2b095b8aceb6547865aa9eba7031be
+      internalID: -160090888
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_17
+      name: Skeleton King_22
       rect:
         serializedVersion: 2
         x: 64
@@ -476,14 +581,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b06d01f87f89d434e895fc19b0e4a191
-      internalID: 1609564693
+      spriteID: d2bc8ced6ff50a74d98849f7e38833c8
+      internalID: 1105827688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_18
+      name: Skeleton King_23
       rect:
         serializedVersion: 2
         x: 96
@@ -497,14 +602,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66e20ec471cd93a47a45c660bf270b67
-      internalID: 283746849
+      spriteID: 95a6b13c523be7241838e3851b623ce4
+      internalID: -831117156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_19
+      name: Skeleton King_24
       rect:
         serializedVersion: 2
         x: 128
@@ -518,14 +623,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fec8677277a23e049b00a0d9703816d1
-      internalID: -1363726626
+      spriteID: b12467c4f9537b44799f69cfa4ee4b38
+      internalID: 999303969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_20
+      name: Skeleton King_25
       rect:
         serializedVersion: 2
         x: 0
@@ -539,14 +644,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0079e837f1c60724fbc1da00a97134f3
-      internalID: 1191043622
+      spriteID: 7eb73d1b9c3771a4ea08ec744b93f1d8
+      internalID: -1852699872
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_21
+      name: Skeleton King_26
       rect:
         serializedVersion: 2
         x: 32
@@ -560,14 +665,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ebb5357337951248875b8cd601274dc
-      internalID: 1135060661
+      spriteID: 483d05bbd1d3a9543baa7a2dd11e2d20
+      internalID: 812527219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_22
+      name: Skeleton King_27
       rect:
         serializedVersion: 2
         x: 64
@@ -581,14 +686,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52a10524a3e73d94290a8e5ea9555606
-      internalID: 1197831475
+      spriteID: de3c50e1fb6e2f54fa093cc9b8877315
+      internalID: -1471370794
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Leader_23
+      name: Skeleton King_28
       rect:
         serializedVersion: 2
         x: 96
@@ -602,8 +707,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7c423972ba9b8d4c90f9d00fa6de609
-      internalID: -1273021134
+      spriteID: edc9a61b7d8840e4d9e5223037477351
+      internalID: -1291376333
       vertices: []
       indices: 
       edges: []
@@ -619,30 +724,35 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Bandit Leader_4: -672858075
-      Bandit Leader_14: 1112781878
-      Bandit Leader_0: -803799368
-      Bandit Leader_12: 1936566855
-      Bandit Leader_16: -474527949
-      Bandit Leader_10: -764603648
-      Bandit Leader_20: 1191043622
-      Bandit Leader_23: -1273021134
-      Bandit Leader_3: -1403655647
-      Bandit Leader_2: 1804547092
-      Bandit Leader_1: -1134509725
-      Bandit Leader_7: -1291619956
-      Bandit Leader_11: 1065261656
-      Bandit Leader_18: 283746849
-      Bandit Leader_22: 1197831475
-      Bandit Leader_8: 228275650
-      Bandit Leader_19: -1363726626
-      Bandit Leader_6: 1862524476
-      Bandit Leader_17: 1609564693
-      Bandit Leader_9: -189738765
-      Bandit Leader_13: -440412846
-      Bandit Leader_5: 708767504
-      Bandit Leader_21: 1135060661
-      Bandit Leader_15: 801434845
+      Skeleton King_25: -1852699872
+      Skeleton King_13: -846772247
+      Skeleton King_11: -1901099137
+      Skeleton King_26: 812527219
+      Skeleton King_1: -277426883
+      Skeleton King_7: -1466448263
+      Skeleton King_10: -1699184862
+      Skeleton King_23: -831117156
+      Skeleton King_22: 1105827688
+      Skeleton King_28: -1291376333
+      Skeleton King_19: 1380137545
+      Skeleton King_18: -1224851957
+      Skeleton King_9: 412860390
+      Skeleton King_15: -1683596481
+      Skeleton King_3: -306591325
+      Skeleton King_6: -684336144
+      Skeleton King_5: 1064344008
+      Skeleton King_2: -346858532
+      Skeleton King_16: -1389358116
+      Skeleton King_14: -571330442
+      Skeleton King_17: -869897258
+      Skeleton King_27: -1471370794
+      Skeleton King_20: 1260217316
+      Skeleton King_12: -790339821
+      Skeleton King_0: -2050029621
+      Skeleton King_21: -160090888
+      Skeleton King_4: -645782567
+      Skeleton King_8: -802031453
+      Skeleton King_24: 999303969
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

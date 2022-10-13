@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b953eb527b337f34799460d57514aa83
+guid: 7bf6437863d0af74b830802c7a2fb8c3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,259 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Clara_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: afdaa6ab8c0761c458e90168e9202702
-      internalID: -1432255403
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Clara_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d2e9e181d09fea41804f8c260834616
-      internalID: -39440923
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Clara_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 92f5ce99a3487e9429f73756b3867d27
-      internalID: -1854933114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Clara_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1596f0389957d145b09d7365961f098
-      internalID: -970537592
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Clara_4
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 689d2c630720ec3478154d99fdc33a3b
-      internalID: -1258112782
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Clara_5
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 54d05831abef11d48bcf624e8ed260f6
-      internalID: 1333677299
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Clara_6
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d719af446aab997438f21f99f1d499bd
-      internalID: -806210129
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Clara_7
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f54baf9f04c060a4da7cd2e0d3a517d7
-      internalID: 1439542063
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Clara_8
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4138c657ad79774ebe3afc163a9e6f3
-      internalID: 839790267
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Clara_9
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c9a10a4353e0384aa7c75b524f4bdff
-      internalID: -1343769419
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Clara_10
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26547117388b0844188e1cdeedfc8df5
-      internalID: 816447754
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Clara_11
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3914bc427aba2514c87be00cb5e5e519
-      internalID: 1536340919
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Clara_12
+      name: Drunk Guy_0
       rect:
         serializedVersion: 2
         x: 0
@@ -371,14 +119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c7814081d98d274e8b705f1379dc94a
-      internalID: -1567248977
+      spriteID: 1cb58bcabcef0fe40ba36d539ce71cba
+      internalID: -1946286417
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_13
+      name: Drunk Guy_1
       rect:
         serializedVersion: 2
         x: 32
@@ -392,14 +140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e3a448bb90e9654ea583d9a40c14dc5
-      internalID: 2102354369
+      spriteID: c90d788c2153e7044a76dd5af86bb19d
+      internalID: 687939285
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_14
+      name: Drunk Guy_2
       rect:
         serializedVersion: 2
         x: 64
@@ -413,14 +161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00ad2673314a60145b1482368116b8af
-      internalID: 1057365954
+      spriteID: d373604a24e5f6a42890a03e59eae580
+      internalID: 1396423020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_15
+      name: Drunk Guy_3
       rect:
         serializedVersion: 2
         x: 96
@@ -434,14 +182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 102c709d27c79b74489e3f8269b5267e
-      internalID: -1261373027
+      spriteID: bffb99c0962418f4eac60b55047b8b0b
+      internalID: -1174330256
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_16
+      name: Drunk Guy_4
       rect:
         serializedVersion: 2
         x: 128
@@ -455,35 +203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf9f9794b628bca4d96720f9ea054876
-      internalID: -2133140608
+      spriteID: 6cf6af01696e35a48a4dda0467059274
+      internalID: -1036121178
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_17
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 565621c1c82c29e49bbe65005f2ff9a0
-      internalID: -371419579
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Clara_18
+      name: Drunk Guy_5
       rect:
         serializedVersion: 2
         x: 0
@@ -497,14 +224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d1235c5682ff814f932aa80443f2826
-      internalID: 1301364356
+      spriteID: f4084ebcc913d5b439f6c2d380aed965
+      internalID: 1457061000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_19
+      name: Drunk Guy_6
       rect:
         serializedVersion: 2
         x: 32
@@ -518,14 +245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2bc4f1a2c867df49882a3e60fe8b007
-      internalID: -73922907
+      spriteID: 3fc98dfc023527048830bb91507be107
+      internalID: -658098398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_20
+      name: Drunk Guy_7
       rect:
         serializedVersion: 2
         x: 64
@@ -539,14 +266,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07350fbd0e57cbb44b1f33f436e47862
-      internalID: 845695031
+      spriteID: 324370d01e0c9f54ba88fb8b1b1f1415
+      internalID: -879681232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_21
+      name: Drunk Guy_8
       rect:
         serializedVersion: 2
         x: 96
@@ -560,14 +287,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dfc0adb81b4a06140bfc4949d032c610
-      internalID: -236461803
+      spriteID: 5cc8611726dfa1d42b340f26823b0420
+      internalID: 1831484569
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_22
+      name: Drunk Guy_9
       rect:
         serializedVersion: 2
         x: 128
@@ -581,35 +308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5c4c030f3e13424ba5c15e6c7ff4050
-      internalID: 1076462871
+      spriteID: a3b3dc60795b7d54399f8f2b1d68c182
+      internalID: 270171995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_23
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3cc0ddf9e3237b44d9c4df5a64bce3f4
-      internalID: -1359328514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Clara_24
+      name: Drunk Guy_10
       rect:
         serializedVersion: 2
         x: 0
@@ -623,14 +329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a6d4f46b69b7d84fb598c9b53afaa0f
-      internalID: 2111160978
+      spriteID: 188e59adcece393439ef4dc8507bf54d
+      internalID: 827233891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_25
+      name: Drunk Guy_11
       rect:
         serializedVersion: 2
         x: 32
@@ -644,14 +350,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17f9e99a4aa582748bd48b9ee1632894
-      internalID: -1708661177
+      spriteID: 231a012327bfadd4ca53f39d873cfb44
+      internalID: 166194140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_26
+      name: Drunk Guy_12
       rect:
         serializedVersion: 2
         x: 64
@@ -665,14 +371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8ad8e4c911f9804b98a67fcab8ed76b
-      internalID: -573785515
+      spriteID: 0cd3b05198bf202438278fe46d8b549d
+      internalID: -1551968536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_27
+      name: Drunk Guy_13
       rect:
         serializedVersion: 2
         x: 96
@@ -686,14 +392,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b62bde5ec9588a4e86cc52a687c894a
-      internalID: 1505423610
+      spriteID: ff5372d0508d23d4ca0c62b8fd458161
+      internalID: -1899670027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_28
+      name: Drunk Guy_14
       rect:
         serializedVersion: 2
         x: 128
@@ -707,35 +413,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1391c17e786d8b34b9e3e3fd58522c51
-      internalID: 7000720
+      spriteID: fc79997e1501f014cb13726bb0c0de28
+      internalID: 1831179925
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_29
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c66140d122bb2d54abdaedb4fb5acee3
-      internalID: -733087757
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Clara_30
+      name: Drunk Guy_15
       rect:
         serializedVersion: 2
         x: 0
@@ -749,14 +434,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6dde680b1732cba4b801f2fd99ae0f3f
-      internalID: 1622213457
+      spriteID: 679265b1050f9d2419474453747be4c0
+      internalID: 161624412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_31
+      name: Drunk Guy_16
       rect:
         serializedVersion: 2
         x: 32
@@ -770,14 +455,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae60f302a52b1f145b713dc394863b0c
-      internalID: 389300160
+      spriteID: 6081184d492b4b04faed01c37fd760a1
+      internalID: -50442770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_32
+      name: Drunk Guy_17
       rect:
         serializedVersion: 2
         x: 64
@@ -791,14 +476,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ea2496154934e44fa1a268e37c24c8f
-      internalID: -1878718266
+      spriteID: be8de56127e28114685d7091742a93b2
+      internalID: -1224285772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_33
+      name: Drunk Guy_18
       rect:
         serializedVersion: 2
         x: 96
@@ -812,14 +497,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0dfd90a766d937d45b085a3957530d6d
-      internalID: -1092981062
+      spriteID: deb997625ff024d4dbd8498755bc861b
+      internalID: -692896024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_34
+      name: Drunk Guy_19
       rect:
         serializedVersion: 2
         x: 128
@@ -833,35 +518,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd6a27eb611669f4db2d239f814bfc0b
-      internalID: 707424788
+      spriteID: 4ca972c09fefdaa4ab2e4db23068dbc9
+      internalID: -457506060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_35
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56c51d64ff50493478a173fc65debed7
-      internalID: -2020071013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Clara_36
+      name: Drunk Guy_20
       rect:
         serializedVersion: 2
         x: 0
@@ -875,14 +539,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d70d6fe2d716b6488fa6f978699b938
-      internalID: 954996792
+      spriteID: f656345639117364199390b33f31aab4
+      internalID: -937704290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Clara_37
+      name: Drunk Guy_21
       rect:
         serializedVersion: 2
         x: 32
@@ -896,8 +560,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c48a410dd1e969d49ba4d3f90c954863
-      internalID: 662653860
+      spriteID: 23144ba73f91c074383edfe64aac652a
+      internalID: -1500410550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drunk Guy_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25373792ce1e5440bc251aa3e80d752
+      internalID: -1172520515
       vertices: []
       indices: 
       edges: []
@@ -913,44 +598,29 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Clara_18: 1301364356
-      Clara_4: -1258112782
-      Clara_13: 2102354369
-      Clara_19: -73922907
-      Clara_32: -1878718266
-      Clara_22: 1076462871
-      Clara_36: 954996792
-      Clara_24: 2111160978
-      Clara_5: 1333677299
-      Clara_10: 816447754
-      Clara_11: 1536340919
-      Clara_9: -1343769419
-      Clara_1: -39440923
-      Clara_28: 7000720
-      Clara_0: -1432255403
-      Clara_12: -1567248977
-      Clara_14: 1057365954
-      Clara_27: 1505423610
-      Clara_31: 389300160
-      Clara_15: -1261373027
-      Clara_2: -1854933114
-      Clara_21: -236461803
-      Clara_23: -1359328514
-      Clara_26: -573785515
-      Clara_30: 1622213457
-      Clara_34: 707424788
-      Clara_3: -970537592
-      Clara_6: -806210129
-      Clara_29: -733087757
-      Clara_7: 1439542063
-      Clara_17: -371419579
-      Clara_33: -1092981062
-      Clara_20: 845695031
-      Clara_35: -2020071013
-      Clara_37: 662653860
-      Clara_16: -2133140608
-      Clara_8: 839790267
-      Clara_25: -1708661177
+      Drunk Guy_10: 827233891
+      Drunk Guy_20: -937704290
+      Drunk Guy_12: -1551968536
+      Drunk Guy_22: -1172520515
+      Drunk Guy_19: -457506060
+      Drunk Guy_5: 1457061000
+      Drunk Guy_9: 270171995
+      Drunk Guy_16: -50442770
+      Drunk Guy_7: -879681232
+      Drunk Guy_17: -1224285772
+      Drunk Guy_14: 1831179925
+      Drunk Guy_6: -658098398
+      Drunk Guy_4: -1036121178
+      Drunk Guy_8: 1831484569
+      Drunk Guy_11: 166194140
+      Drunk Guy_21: -1500410550
+      Drunk Guy_3: -1174330256
+      Drunk Guy_15: 161624412
+      Drunk Guy_13: -1899670027
+      Drunk Guy_18: -692896024
+      Drunk Guy_0: -1946286417
+      Drunk Guy_1: 687939285
+      Drunk Guy_2: 1396423020
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4f46cb1dc0022b84d8e75549ef19e2a3
+guid: a5562a77fed495c489864f0608422ceb
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bandit_0
+      name: Bandit Leader_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de807e8ce532b6743a5b787c271c4015
-      internalID: 1259121498
+      spriteID: 3f91820909a7a6b478311b5cc3c6c29e
+      internalID: -767512624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_1
+      name: Bandit Leader_1
       rect:
         serializedVersion: 2
         x: 32
@@ -140,14 +140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4cad196dea457244b2b86be7d043a3f
-      internalID: -503150110
+      spriteID: eac8f5b54a4ccd048a5168b8e08447d3
+      internalID: -1224238092
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_2
+      name: Bandit Leader_2
       rect:
         serializedVersion: 2
         x: 64
@@ -161,14 +161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6782a6ecc364fbe4089808dd082e27ac
-      internalID: 1829312018
+      spriteID: 152104fbba2cda149adec5c3f709c1fa
+      internalID: -1205782316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_3
+      name: Bandit Leader_3
       rect:
         serializedVersion: 2
         x: 96
@@ -182,14 +182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bc83df51c728ec4780128f1e68a81c7
-      internalID: 55321600
+      spriteID: de42793a19eb7db4f96489a07d449dba
+      internalID: -1821663700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_4
+      name: Bandit Leader_4
       rect:
         serializedVersion: 2
         x: 128
@@ -203,14 +203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b8dd2260cb8e8b46bd92105845004dd
-      internalID: 1123510189
+      spriteID: 3b08d233edfae3945b74a66720c044e7
+      internalID: -510749054
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_5
+      name: Bandit Leader_5
       rect:
         serializedVersion: 2
         x: 0
@@ -224,14 +224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eaaa3654e1d26b840a4f4abe48491324
-      internalID: -722062740
+      spriteID: 53d49b0c67d813543ab05f32ef576460
+      internalID: 2055466406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_6
+      name: Bandit Leader_6
       rect:
         serializedVersion: 2
         x: 32
@@ -245,14 +245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 317e840a1feecb94584504a24ade8d2d
-      internalID: -890006293
+      spriteID: 10045e1c1d094cb429c500cffadbbde8
+      internalID: -1343695223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_7
+      name: Bandit Leader_7
       rect:
         serializedVersion: 2
         x: 64
@@ -266,14 +266,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3e7357c79bf94b4a8d99c22f49bebf2
-      internalID: 1909419657
+      spriteID: 00a5daf843667de458a422fc0d13ba47
+      internalID: 1184508157
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_8
+      name: Bandit Leader_8
       rect:
         serializedVersion: 2
         x: 96
@@ -287,14 +287,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e43fcbfbc24086e4c99c1e1efe2044af
-      internalID: 527509209
+      spriteID: 2bb895a5d8406ce46aa58053d30e59e1
+      internalID: -967195036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_9
+      name: Bandit Leader_9
       rect:
         serializedVersion: 2
         x: 128
@@ -308,14 +308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d06b8b04472174c4ba7ab71d2e240ac0
-      internalID: -251908216
+      spriteID: 74c8ac9467d8b1c408baa93abd2942a1
+      internalID: 1862411694
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_10
+      name: Bandit Leader_10
       rect:
         serializedVersion: 2
         x: 0
@@ -329,14 +329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c817cba344f3f464ebe2fa0d730c9b78
-      internalID: -963540423
+      spriteID: 8bcac1f1aaf9f2a47a7f67aa25353d57
+      internalID: -501486885
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_11
+      name: Bandit Leader_11
       rect:
         serializedVersion: 2
         x: 32
@@ -350,14 +350,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1515af3609215534995b708156b71989
-      internalID: 743161493
+      spriteID: 4bfa619304f35f74a9041bd6755d1cc2
+      internalID: 966057313
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_12
+      name: Bandit Leader_12
       rect:
         serializedVersion: 2
         x: 64
@@ -371,14 +371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77d258ad525d6d44faf8f80a928960b3
-      internalID: -507864692
+      spriteID: f1f70e6a996c7324cac0c86619aa276c
+      internalID: 1973544519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_13
+      name: Bandit Leader_13
       rect:
         serializedVersion: 2
         x: 96
@@ -392,14 +392,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 831372c20fb058449932b47194ad990d
-      internalID: 2003118996
+      spriteID: 2ba09ab8b0423e94f90a7110d41a3e82
+      internalID: -388371545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_14
+      name: Bandit Leader_14
       rect:
         serializedVersion: 2
         x: 128
@@ -413,14 +413,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e88bdda70bacb2447a5cfc76afcd1c86
-      internalID: 1664257583
+      spriteID: 609720bc1b37dbb47a698380f25de2b1
+      internalID: -1798297621
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_15
+      name: Bandit Leader_15
       rect:
         serializedVersion: 2
         x: 0
@@ -434,14 +434,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e603896352caba444b7844407856f440
-      internalID: 2127339456
+      spriteID: cd32bffaede65174d992810245d366c0
+      internalID: 750921791
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_16
+      name: Bandit Leader_16
       rect:
         serializedVersion: 2
         x: 32
@@ -455,14 +455,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7568596bde27ada4d837e6ca03bfb3f3
-      internalID: -956098217
+      spriteID: 4f819193f8fa7454f9a7eafad96064c2
+      internalID: 1625522605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_17
+      name: Bandit Leader_17
       rect:
         serializedVersion: 2
         x: 64
@@ -476,14 +476,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c32d838824f02964595538a354d25f6d
-      internalID: -709007422
+      spriteID: 381ddf5b5e19015429e59df1d3347e10
+      internalID: 1083011477
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_18
+      name: Bandit Leader_18
       rect:
         serializedVersion: 2
         x: 96
@@ -497,14 +497,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6866075a52a5fcc42b93ae366e92fc79
-      internalID: -1424149153
+      spriteID: 71299929dc4bc7747b2c6ace2d0e97cf
+      internalID: -921970025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_19
+      name: Bandit Leader_19
       rect:
         serializedVersion: 2
         x: 128
@@ -518,14 +518,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa4a14b1e7266004e8f9f21b0d723a41
-      internalID: 1476230122
+      spriteID: e8cfe664419262945b8685f1e7718e86
+      internalID: -2068137155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_20
+      name: Bandit Leader_20
       rect:
         serializedVersion: 2
         x: 0
@@ -539,14 +539,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb4a67ab261f81a4cbb4bbca9375cade
-      internalID: 306560155
+      spriteID: 0ee90aa0c0ad4b5459010c1ad6c04456
+      internalID: 2135141176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_21
+      name: Bandit Leader_21
       rect:
         serializedVersion: 2
         x: 32
@@ -560,14 +560,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 218bedf552db39f47ba5eba4da7ab4df
-      internalID: 61671305
+      spriteID: 714477e44fe70ec43981899173d7621b
+      internalID: 356525303
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit_22
+      name: Bandit Leader_22
       rect:
         serializedVersion: 2
         x: 64
@@ -581,8 +581,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adfbf8afc89c0b8489ecc3fd499ddfb6
-      internalID: -850734702
+      spriteID: e9d01c5b37d73724ca805e8aa3b963c0
+      internalID: 135094659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Leader_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96db1d3102074dd47a6c8476a1e7e79f
+      internalID: -918692028
       vertices: []
       indices: 
       edges: []
@@ -598,29 +619,30 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Bandit_10: -963540423
-      Bandit_22: -850734702
-      Bandit_12: -507864692
-      Bandit_9: -251908216
-      Bandit_18: -1424149153
-      Bandit_16: -956098217
-      Bandit_19: 1476230122
-      Bandit_21: 61671305
-      Bandit_3: 55321600
-      Bandit_14: 1664257583
-      Bandit_5: -722062740
-      Bandit_15: 2127339456
-      Bandit_2: 1829312018
-      Bandit_4: 1123510189
-      Bandit_0: 1259121498
-      Bandit_17: -709007422
-      Bandit_6: -890006293
-      Bandit_13: 2003118996
-      Bandit_11: 743161493
-      Bandit_20: 306560155
-      Bandit_8: 527509209
-      Bandit_7: 1909419657
-      Bandit_1: -503150110
+      Bandit Leader_4: -510749054
+      Bandit Leader_14: -1798297621
+      Bandit Leader_0: -767512624
+      Bandit Leader_12: 1973544519
+      Bandit Leader_16: 1625522605
+      Bandit Leader_10: -501486885
+      Bandit Leader_20: 2135141176
+      Bandit Leader_23: -918692028
+      Bandit Leader_3: -1821663700
+      Bandit Leader_2: -1205782316
+      Bandit Leader_1: -1224238092
+      Bandit Leader_7: 1184508157
+      Bandit Leader_11: 966057313
+      Bandit Leader_18: -921970025
+      Bandit Leader_22: 135094659
+      Bandit Leader_8: -967195036
+      Bandit Leader_19: -2068137155
+      Bandit Leader_6: -1343695223
+      Bandit Leader_17: 1083011477
+      Bandit Leader_9: 1862411694
+      Bandit Leader_13: -388371545
+      Bandit Leader_5: 2055466406
+      Bandit Leader_21: 356525303
+      Bandit Leader_15: 750921791
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

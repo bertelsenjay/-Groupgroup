@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fd6594ce4c1b6604c829775a6275c3e9
+guid: 5ddb21a17415d7349b077dd38b05caa5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Drunk Guy_0
+      name: Bandit_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c488caa2f156194aa7e38ea3160fd0a
-      internalID: -1614896855
+      spriteID: 2f02a7354acbbf949b52b696b4a8afe0
+      internalID: 1668602408
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_1
+      name: Bandit_1
       rect:
         serializedVersion: 2
         x: 32
@@ -140,14 +140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 992cb78b88db75b4c8af6244fb06dd0c
-      internalID: 865848606
+      spriteID: 1ce948dd2b2484b4e8879ddb8937cd50
+      internalID: 1770531265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_2
+      name: Bandit_2
       rect:
         serializedVersion: 2
         x: 64
@@ -161,14 +161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd63fb6fe3cd049489f2879a1a330be5
-      internalID: 790208107
+      spriteID: 96316a7b47f385e478536962fe16e464
+      internalID: -564884787
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_3
+      name: Bandit_3
       rect:
         serializedVersion: 2
         x: 96
@@ -182,14 +182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2915401867c5ee14897c810d2c0b4f85
-      internalID: -1808229466
+      spriteID: 5390caf611cdd4c4f95179d6abc774e6
+      internalID: 297655817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_4
+      name: Bandit_4
       rect:
         serializedVersion: 2
         x: 128
@@ -203,14 +203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c91b30b7de351f943a098a008ac0652a
-      internalID: -1568225794
+      spriteID: dea3c02b017ac7e49a33f6b2ef9f730c
+      internalID: 1656187906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_5
+      name: Bandit_5
       rect:
         serializedVersion: 2
         x: 0
@@ -224,14 +224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f38d73c76513a343adb6dc97fafb26c
-      internalID: 1787084426
+      spriteID: 4c3d7631ac624704892c2edbd336f356
+      internalID: -653638757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_6
+      name: Bandit_6
       rect:
         serializedVersion: 2
         x: 32
@@ -245,14 +245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 952d33ac890262c4c9d0140f50788ea3
-      internalID: 1727042084
+      spriteID: 03d983b52fa0fa04c8ffdaf22d32e1e7
+      internalID: -1330967348
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_7
+      name: Bandit_7
       rect:
         serializedVersion: 2
         x: 64
@@ -266,14 +266,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34eedd8acbe8da040a7209cff6f3eaba
-      internalID: -1267519396
+      spriteID: 57e0a5336ddf44047b20fb6d9c8212a8
+      internalID: 950830869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_8
+      name: Bandit_8
       rect:
         serializedVersion: 2
         x: 96
@@ -287,14 +287,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96d3f8cc44288a14584eebb8bb36eb68
-      internalID: 1769526979
+      spriteID: 8b06719d20be6a44eaddbaf3cc190805
+      internalID: 972280000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_9
+      name: Bandit_9
       rect:
         serializedVersion: 2
         x: 128
@@ -308,14 +308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c1091ae98d961347bf9732831fe208d
-      internalID: 775299091
+      spriteID: 8e4ce3867d571f241a2c791d96b19978
+      internalID: 1706922851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_10
+      name: Bandit_10
       rect:
         serializedVersion: 2
         x: 0
@@ -329,14 +329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10255b066e6935748b918a6f2aeccc67
-      internalID: 872107849
+      spriteID: 29bbb8c0d3d00a440b275083caa637ab
+      internalID: 1838798771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_11
+      name: Bandit_11
       rect:
         serializedVersion: 2
         x: 32
@@ -350,14 +350,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fca681cd395a2a419d82d1fcbbada01
-      internalID: -966333727
+      spriteID: c88089e919c6a254590a268e97321ef3
+      internalID: 41232245
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_12
+      name: Bandit_12
       rect:
         serializedVersion: 2
         x: 64
@@ -371,14 +371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa3ffaefedb5b034b80051dad374b6a3
-      internalID: -847360169
+      spriteID: 2cfc52ecc333c954497d3ac10957b45d
+      internalID: 1662796130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_13
+      name: Bandit_13
       rect:
         serializedVersion: 2
         x: 96
@@ -392,14 +392,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3409fc5e176f1804496258b7925e8397
-      internalID: -763239509
+      spriteID: 3ec6dc95eb24e924f9f9ed25df46e394
+      internalID: 996399311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_14
+      name: Bandit_14
       rect:
         serializedVersion: 2
         x: 128
@@ -413,14 +413,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8bc0a79e1800e345a34ee9676dc01ec
-      internalID: -1907927250
+      spriteID: 27416e11148e37943a8c270699d9b332
+      internalID: -1296822619
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_15
+      name: Bandit_15
       rect:
         serializedVersion: 2
         x: 0
@@ -434,14 +434,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db99fc27173f4f24987ad405faf999d2
-      internalID: 1156933602
+      spriteID: 1c4643c727d988647a85bf70af1b6295
+      internalID: 872429566
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_16
+      name: Bandit_16
       rect:
         serializedVersion: 2
         x: 32
@@ -455,14 +455,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68b51c8c5c229f640baed191f06e7d55
-      internalID: 1192191292
+      spriteID: a2096f482fe876749bc7aa6426f5ac4c
+      internalID: -1182888969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_17
+      name: Bandit_17
       rect:
         serializedVersion: 2
         x: 64
@@ -476,14 +476,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3963b813cbdb9fa4281870b1907afabd
-      internalID: 895880672
+      spriteID: 37f2a3d6d6c367f468e8e736eaaf4c91
+      internalID: -1619138230
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_18
+      name: Bandit_18
       rect:
         serializedVersion: 2
         x: 96
@@ -497,14 +497,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42b852840a34d654e9a3a74a433543e9
-      internalID: -1655349242
+      spriteID: 9489f31fd929a5d42bf1bcee865b8005
+      internalID: -431591270
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_19
+      name: Bandit_19
       rect:
         serializedVersion: 2
         x: 128
@@ -518,14 +518,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e76565f94b79eb40a868894c45ad5c5
-      internalID: -1088661635
+      spriteID: 31bc2a52c41b8594dbdc4754307fdf83
+      internalID: 2115946201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_20
+      name: Bandit_20
       rect:
         serializedVersion: 2
         x: 0
@@ -539,14 +539,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 720848d15e0df2548ba5f93ac9c662d3
-      internalID: -237520582
+      spriteID: f28bde41e6e3c664bb95589189826cd4
+      internalID: -2081478542
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_21
+      name: Bandit_21
       rect:
         serializedVersion: 2
         x: 32
@@ -560,14 +560,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39b4effb145e69e4f88722269d2b905e
-      internalID: -485238364
+      spriteID: f331fce122f2b8c45871e0d42499728a
+      internalID: 360762682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drunk Guy_22
+      name: Bandit_22
       rect:
         serializedVersion: 2
         x: 64
@@ -581,8 +581,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cda6913499f16724487a856a1862b8ab
-      internalID: -1356133456
+      spriteID: 3ac735391a374914f8ed93400edae16b
+      internalID: -1266496179
       vertices: []
       indices: 
       edges: []
@@ -598,29 +598,29 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Drunk Guy_10: 872107849
-      Drunk Guy_20: -237520582
-      Drunk Guy_12: -847360169
-      Drunk Guy_22: -1356133456
-      Drunk Guy_19: -1088661635
-      Drunk Guy_5: 1787084426
-      Drunk Guy_9: 775299091
-      Drunk Guy_16: 1192191292
-      Drunk Guy_7: -1267519396
-      Drunk Guy_17: 895880672
-      Drunk Guy_14: -1907927250
-      Drunk Guy_6: 1727042084
-      Drunk Guy_4: -1568225794
-      Drunk Guy_8: 1769526979
-      Drunk Guy_11: -966333727
-      Drunk Guy_21: -485238364
-      Drunk Guy_3: -1808229466
-      Drunk Guy_15: 1156933602
-      Drunk Guy_13: -763239509
-      Drunk Guy_18: -1655349242
-      Drunk Guy_0: -1614896855
-      Drunk Guy_1: 865848606
-      Drunk Guy_2: 790208107
+      Bandit_10: 1838798771
+      Bandit_22: -1266496179
+      Bandit_12: 1662796130
+      Bandit_9: 1706922851
+      Bandit_18: -431591270
+      Bandit_16: -1182888969
+      Bandit_19: 2115946201
+      Bandit_21: 360762682
+      Bandit_3: 297655817
+      Bandit_14: -1296822619
+      Bandit_5: -653638757
+      Bandit_15: 872429566
+      Bandit_2: -564884787
+      Bandit_4: 1656187906
+      Bandit_0: 1668602408
+      Bandit_17: -1619138230
+      Bandit_6: -1330967348
+      Bandit_13: 996399311
+      Bandit_11: 41232245
+      Bandit_20: -2081478542
+      Bandit_8: 972280000
+      Bandit_7: 950830869
+      Bandit_1: 1770531265
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
