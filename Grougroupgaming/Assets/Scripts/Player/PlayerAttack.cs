@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
 {
-    private Animator anim;
+    private Animator attackAnim;
     public GameObject attack;
     public float attackLifetime = 1.0f;
     public AudioClip attackSound;
@@ -12,7 +12,7 @@ public class PlayerAttack : MonoBehaviour
     public float attackDelay = 1.0f;
     void Start()
     {
-        anim = GetComponent<Animator>();
+        attackAnim = GetComponent<Animator>();
     }
     void Update()
     {
@@ -25,12 +25,15 @@ public class PlayerAttack : MonoBehaviour
                 {
                     GameObject attackSpawn = Instantiate(attack, transform.position, Quaternion.identity);
                     Debug.Log("1");
-                    anim.Play("Player", 6);
                     Destroy(attackSpawn, attackLifetime);
                     Camera.main.GetComponent<AudioSource>().PlayOneShot(attackSound);
                     timer = 0;
                 }
             }
         }
+    }
+    public void playAnimation (string name)
+    {
+        attackAnim.Play(name);
     }
 }
