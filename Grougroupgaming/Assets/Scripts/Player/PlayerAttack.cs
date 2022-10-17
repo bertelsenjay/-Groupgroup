@@ -23,7 +23,7 @@ public class PlayerAttack : MonoBehaviour
             {
                 if (timer >= attackDelay)
                 {
-                    GameObject attackSpawn = Instantiate(attack, transform.position, Quaternion.identity);
+                    GameObject attackSpawn = Instantiate (attack, transform.position, Quaternion.identity);
                     Debug.Log("1");
                     Destroy(attackSpawn, attackLifetime);
                     Camera.main.GetComponent<AudioSource>().PlayOneShot(attackSound);
