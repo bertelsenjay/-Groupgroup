@@ -4,16 +4,16 @@ using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
 {
-    private Animator attackAnim;
     public GameObject attack;
     public float attackLifetime = 1.0f;
     public AudioSource audioSource;
     public AudioClip attackSound;
     float timer = 0;
     public float attackDelay = 1.0f;
+    public Animator animator;
     void Start()
     {
-        attackAnim = GetComponent<Animator>();
+        //attackAnim = GetComponent<Animator>();
     }
     void Update()
     {
@@ -22,19 +22,19 @@ public class PlayerAttack : MonoBehaviour
             timer += Time.deltaTime;
             if (Input.GetButton("Fire1"))
             {
-                if (timer >= attackDelay)
-                {
-                    GameObject attackSpawn = Instantiate (attack, transform.position, Quaternion.identity);
-                    Debug.Log("1");
-                    Destroy(attackSpawn, attackLifetime);
-                    audioSource.PlayOneShot(attackSound, 1.0f);
-                    timer = 0;
-                }
+                Attack();
             }
         }
     }
-    public void playAnimation (string name)
+    void Attack()
     {
-        attackAnim.Play(name);
+        if (timer >= attackDelay)
+        {
+            GameObject attackSpawn = Instantiate(attack, transform.position, Quaternion.identity);
+            Debug.Log("1");
+            Destroy(attackSpawn, attackLifetime);
+            audioSource.PlayOneShot(attackSound, 1.0f);
+            timer = 0;
+        }
     }
 }
