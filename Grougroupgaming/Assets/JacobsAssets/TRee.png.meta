@@ -49,7 +49,7 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -113,10 +113,19 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 14, y: -2}
+        - {x: -16, y: 6}
+        - {x: -16, y: 23}
+        - {x: 18, y: 23}
+        - {x: 19, y: 4}
+      - - {x: -5, y: -26}
+        - {x: -3, y: 4}
+        - {x: 4, y: 4}
+        - {x: 7, y: -27}
       tessellationDetail: 0
       bones: []
       spriteID: 3aaebcdb3e7700e4d8e82cd9168898e4
@@ -134,10 +143,19 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 14, y: -2}
+        - {x: -16, y: 6}
+        - {x: -16, y: 23}
+        - {x: 18, y: 23}
+        - {x: 19, y: 4}
+      - - {x: -5, y: -26}
+        - {x: -3, y: 4}
+        - {x: 4, y: 4}
+        - {x: 7, y: -27}
       tessellationDetail: 0
       bones: []
       spriteID: 749f908fe80862e4c8487be4875ed6de
@@ -155,10 +173,19 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 14, y: -2}
+        - {x: -16, y: 6}
+        - {x: -16, y: 23}
+        - {x: 18, y: 23}
+        - {x: 19, y: 4}
+      - - {x: -5, y: -26}
+        - {x: -3, y: 4}
+        - {x: 4, y: 4}
+        - {x: 7, y: -27}
       tessellationDetail: 0
       bones: []
       spriteID: eade83997949c6b4392f43a858d68719
