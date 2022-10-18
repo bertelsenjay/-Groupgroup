@@ -5,16 +5,16 @@ using UnityEngine;
 public class PlayerAttack : MonoBehaviour
 {
     public GameObject attack;
+
     public float attackLifetime = 1.0f;
+    public float attackDelay = 1.0f;
+    float timer = 0;
+
     public AudioSource audioSource;
     public AudioClip attackSound;
-    float timer = 0;
-    public float attackDelay = 1.0f;
+
     public Animator animator;
-    void Start()
-    {
-        //attackAnim = GetComponent<Animator>();
-    }
+
     void Update()
     {
         if (Time.timeScale == 1)
@@ -30,6 +30,7 @@ public class PlayerAttack : MonoBehaviour
     {
         if (timer >= attackDelay)
         {
+            animator.SetTrigger("Attack");
             GameObject attackSpawn = Instantiate(attack, transform.position, Quaternion.identity);
             Debug.Log("1");
             Destroy(attackSpawn, attackLifetime);
