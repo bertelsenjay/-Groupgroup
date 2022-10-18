@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: Cavern-Objects_5
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -1671823638, guid: 3b91068ab36744f44ac8e068a384d3b8, type: 3}
+  m_Sprite: {fileID: 2007061245, guid: 6711db9fca0400d4cb1bc6c36c05a9bd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
