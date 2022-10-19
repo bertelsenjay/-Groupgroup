@@ -48,6 +48,7 @@ SpriteAtlas:
     - {fileID: 2800000, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
     - {fileID: 2800000, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
     - {fileID: 2800000, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
+    - {fileID: 2800000, guid: e58edd3e2badbc245845024339ffbc42, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -112,6 +113,10 @@ SpriteAtlas:
   - {fileID: 874669641, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
   - {fileID: -1907261544, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
   - {fileID: 1561903491, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: -1522641549, guid: e58edd3e2badbc245845024339ffbc42, type: 3}
+  - {fileID: -1509400309, guid: e58edd3e2badbc245845024339ffbc42, type: 3}
+  - {fileID: 1135906868, guid: e58edd3e2badbc245845024339ffbc42, type: 3}
+  - {fileID: -1659814904, guid: e58edd3e2badbc245845024339ffbc42, type: 3}
   - {fileID: -1562253981, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
   - {fileID: 159561916, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
   - {fileID: 619701135, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
@@ -181,6 +186,10 @@ SpriteAtlas:
   - TownGrassCliffs_11
   - TownGrassCliffs_18
   - TownGrassCliffs_19
+  - Laddercurve_1
+  - Laddercurve_0
+  - Laddercurve_3
+  - Laddercurve_2
   - MountainsideBarrier_8
   - MountainsideBarrier_1
   - MountainsideBarrier_0
