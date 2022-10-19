@@ -109,7 +109,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -119,8 +119,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74bd3efe3247b344c81aa701d7203ac7
-      internalID: -1562765767
+      spriteID: b1471ad7f2837b5478c6fec6d95e14f4
+      internalID: 1748972886
       vertices: []
       indices: 
       edges: []
@@ -130,6 +130,195 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee12d23a07065545993e7aca68ce9d2
+      internalID: -687878422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern-ground_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724e17d54830c744e9f9e62d5e80876d
+      internalID: -348807060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern-ground_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb5cee0b06154444906c1018ff54729
+      internalID: -40129429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern-ground_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b0c9eb81d728a4dbb88ad2ac05dd55
+      internalID: 1479321414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern-ground_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef6da8a3181d24cacb94047f297276
+      internalID: -1348884816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern-ground_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192adb73828786c47b60014e8daca9bc
+      internalID: 3541334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern-ground_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f129fadb1527e4ab5a51f92de6bb7e
+      internalID: 1783470312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern-ground_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019ad44a3267143438288183cc95b193
+      internalID: 704006792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern-ground_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1942f90340cb64d9f00e6ceacc7035
+      internalID: 1128442889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern-ground_10
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 64
         width: 32
         height: 32
@@ -140,14 +329,98 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 925bbb2efd78ad14795aa1bbcff51b43
-      internalID: 188130349
+      spriteID: 7d92be40e8dfc1748967b74d9a726b4c
+      internalID: 221133132
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cavern-ground_2
+      name: Cavern-ground_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d99b217354841f4197d65a5e805099e
+      internalID: 89262081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern-ground_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2eb96ac6297f2b48bd655fe1b7d9414
+      internalID: -45584423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern-ground_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c047790c7e332884bb3f825d0fff19f7
+      internalID: -718561852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern-ground_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9195f2032b0aa4d853fa8ddd003382
+      internalID: 648292068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern-ground_15
       rect:
         serializedVersion: 2
         x: 0
@@ -161,14 +434,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67f97c5b76a5f744ca3a2ed142b4e83a
-      internalID: 867782513
+      spriteID: c3114a24c50c84a409d0e93d3876d6b5
+      internalID: -1975260669
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cavern-ground_3
+      name: Cavern-ground_16
       rect:
         serializedVersion: 2
         x: 32
@@ -182,14 +455,77 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33e6fe94a1e8785488792e46dbc1cbec
-      internalID: -1328258800
+      spriteID: be05daa9ab8a4c7448e8458815a1bf46
+      internalID: -53686272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cavern-ground_4
+      name: Cavern-ground_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7e967c726f6b3469d416a2287bc7cd
+      internalID: -1451973687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern-ground_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223c05d6f50a7a54cb97a5ed81395ccf
+      internalID: 1962262881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern-ground_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d818314fa896c45458173bcc31a3c127
+      internalID: 313663433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern-ground_20
       rect:
         serializedVersion: 2
         x: 0
@@ -203,14 +539,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62e7138c2cb9c5740b469090f9b5bc9e
-      internalID: -1875734653
+      spriteID: d9fde544a395308478837e0f317eee45
+      internalID: 1104251379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cavern-ground_5
+      name: Cavern-ground_21
       rect:
         serializedVersion: 2
         x: 32
@@ -224,8 +560,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 039e219a35a25d74dba326f8a690262a
-      internalID: -428984872
+      spriteID: c93fd532b848f6749b454212e8474d28
+      internalID: 1652789908
       vertices: []
       indices: 
       edges: []
@@ -241,12 +577,28 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Cavern-ground_3: -1328258800
-      Cavern-ground_5: -428984872
-      Cavern-ground_2: 867782513
-      Cavern-ground_4: -1875734653
-      Cavern-ground_1: 188130349
-      Cavern-ground_0: -1562765767
+      Cavern-ground_14: 648292068
+      Cavern-ground_3: -40129429
+      Cavern-ground_19: 313663433
+      Cavern-ground_20: 1104251379
+      Cavern-ground_13: -718561852
+      Cavern-ground_15: -1975260669
+      Cavern-ground_5: -1348884816
+      Cavern-ground_2: -348807060
+      Cavern-ground_12: -45584423
+      Cavern-ground_21: 1652789908
+      Cavern-ground_6: 3541334
+      Cavern-ground_8: 704006792
+      Cavern-ground_10: 221133132
+      Cavern-ground_16: -53686272
+      Cavern-ground_17: -1451973687
+      Cavern-ground_4: 1479321414
+      Cavern-ground_11: 89262081
+      Cavern-ground_1: -687878422
+      Cavern-ground_0: 1748972886
+      Cavern-ground_7: 1783470312
+      Cavern-ground_18: 1962262881
+      Cavern-ground_9: 1128442889
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
