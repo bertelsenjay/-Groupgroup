@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Lvl2Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+    - {fileID: 2800000, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1197218443, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: 49138011, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: -199085477, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: 371771151, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: -145910540, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: 1788310824, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: -1099206647, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: -1768785876, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: 1123974969, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: -173072598, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: -873025090, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: -478581296, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: 20339394, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: -277722911, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: 324101558, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: 322585384, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: 14455662, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: 987600472, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: -1439054167, guid: 146c94419d9842341baca26bca5424bc, type: 3}
+  - {fileID: 1175959789, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
+  - {fileID: 1485993961, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
+  - {fileID: -388820677, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
+  - {fileID: 1309029040, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
+  - {fileID: -1154458264, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
+  - {fileID: -1560233779, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
+  - {fileID: -1677928103, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
+  - {fileID: -180870367, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
+  - {fileID: -513861108, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
+  - {fileID: 597114268, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Mountians-ground_18
+  - Mountians-ground_15
+  - Mountians-ground_14
+  - Mountians-ground_17
+  - Mountians-ground_16
+  - Mountians-ground_11
+  - Mountians-ground_10
+  - Mountians-ground_13
+  - Mountians-ground_12
+  - Mountians-ground_8
+  - Mountians-ground_9
+  - Mountians-ground_6
+  - Mountians-ground_7
+  - Mountians-ground_4
+  - Mountians-ground_5
+  - Mountians-ground_2
+  - Mountians-ground_3
+  - Mountians-ground_0
+  - Mountians-ground_1
+  - Mountainside_8
+  - Mountainside_9
+  - Mountainside_2
+  - Mountainside_3
+  - Mountainside_0
+  - Mountainside_1
+  - Mountainside_6
+  - Mountainside_7
+  - Mountainside_4
+  - Mountainside_5
+  m_RenderDataMap: {}
+  m_Tag: Lvl2Atlas
+  m_IsVariant: 0

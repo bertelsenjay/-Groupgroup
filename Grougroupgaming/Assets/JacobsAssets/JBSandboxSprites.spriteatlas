@@ -47,6 +47,7 @@ SpriteAtlas:
     - {fileID: 2800000, guid: 455c45635027b1f4a84f1c5dc52c6fa0, type: 3}
     - {fileID: 2800000, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
     - {fileID: 2800000, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
+    - {fileID: 2800000, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -111,6 +112,15 @@ SpriteAtlas:
   - {fileID: 874669641, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
   - {fileID: -1907261544, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
   - {fileID: 1561903491, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
+  - {fileID: -1562253981, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
+  - {fileID: 159561916, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
+  - {fileID: 619701135, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
+  - {fileID: 530246589, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
+  - {fileID: -1036202210, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
+  - {fileID: 1095225985, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
+  - {fileID: 1026744340, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
+  - {fileID: 627692764, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
+  - {fileID: 382393594, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
   m_PackedSpriteNamesToIndex:
   - TownGrassTileset_19
   - TownGrassTileset_18
@@ -171,6 +181,15 @@ SpriteAtlas:
   - TownGrassCliffs_11
   - TownGrassCliffs_18
   - TownGrassCliffs_19
+  - MountainsideBarrier_8
+  - MountainsideBarrier_1
+  - MountainsideBarrier_0
+  - MountainsideBarrier_3
+  - MountainsideBarrier_2
+  - MountainsideBarrier_5
+  - MountainsideBarrier_4
+  - MountainsideBarrier_7
+  - MountainsideBarrier_6
   m_RenderDataMap: {}
   m_Tag: JBSandboxSprites
   m_IsVariant: 0
