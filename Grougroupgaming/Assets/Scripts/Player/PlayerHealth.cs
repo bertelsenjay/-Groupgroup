@@ -19,12 +19,21 @@ public class PlayerHealth : MonoBehaviour
         string otherTag = collision.gameObject.tag;
         if (otherTag == "Enemy")
         {
-            health--;
-            if (health <= 0)
-            {
-                Scene scene = SceneManager.GetActiveScene();
-                SceneManager.LoadScene(scene.name);
-            }
+            takeDamage();
+        }
+        else if (otherTag == "EnemyDamage")
+        {
+            takeDamage();
+        }
+    }
+
+    void takeDamage()
+    {
+        health--;
+        if (health <= 0)
+        {
+            Scene scene = SceneManager.GetActiveScene();
+            SceneManager.LoadScene(scene.name);
         }
     }
 }
