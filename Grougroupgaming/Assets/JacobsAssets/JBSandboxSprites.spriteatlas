@@ -49,6 +49,8 @@ SpriteAtlas:
     - {fileID: 2800000, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
     - {fileID: 2800000, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
     - {fileID: 2800000, guid: e58edd3e2badbc245845024339ffbc42, type: 3}
+    - {fileID: 2800000, guid: 8e6241ff6ac8f7b4f8dcdb26165e3be6, type: 3}
+    - {fileID: 2800000, guid: c66f63be2d6ed374b83a7a77dc197aa2, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -117,6 +119,10 @@ SpriteAtlas:
   - {fileID: -1509400309, guid: e58edd3e2badbc245845024339ffbc42, type: 3}
   - {fileID: 1135906868, guid: e58edd3e2badbc245845024339ffbc42, type: 3}
   - {fileID: -1659814904, guid: e58edd3e2badbc245845024339ffbc42, type: 3}
+  - {fileID: -1534973706, guid: c66f63be2d6ed374b83a7a77dc197aa2, type: 3}
+  - {fileID: -1099892304, guid: c66f63be2d6ed374b83a7a77dc197aa2, type: 3}
+  - {fileID: -1269122242, guid: c66f63be2d6ed374b83a7a77dc197aa2, type: 3}
+  - {fileID: -1221621176, guid: c66f63be2d6ed374b83a7a77dc197aa2, type: 3}
   - {fileID: -1562253981, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
   - {fileID: 159561916, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
   - {fileID: 619701135, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
@@ -126,6 +132,8 @@ SpriteAtlas:
   - {fileID: 1026744340, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
   - {fileID: 627692764, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
   - {fileID: 382393594, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
+  - {fileID: -1018081039, guid: 8e6241ff6ac8f7b4f8dcdb26165e3be6, type: 3}
+  - {fileID: -2013204823, guid: 8e6241ff6ac8f7b4f8dcdb26165e3be6, type: 3}
   m_PackedSpriteNamesToIndex:
   - TownGrassTileset_19
   - TownGrassTileset_18
@@ -190,6 +198,10 @@ SpriteAtlas:
   - Laddercurve_0
   - Laddercurve_3
   - Laddercurve_2
+  - MBarrierCurve_3
+  - MBarrierCurve_2
+  - MBarrierCurve_1
+  - MBarrierCurve_0
   - MountainsideBarrier_8
   - MountainsideBarrier_1
   - MountainsideBarrier_0
@@ -199,6 +211,8 @@ SpriteAtlas:
   - MountainsideBarrier_4
   - MountainsideBarrier_7
   - MountainsideBarrier_6
+  - BarrierEdge_0
+  - BarrierEdge_1
   m_RenderDataMap: {}
   m_Tag: JBSandboxSprites
   m_IsVariant: 0
