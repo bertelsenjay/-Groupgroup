@@ -26,6 +26,7 @@ public class PlayerAttack : MonoBehaviour
             }
         }
     }
+
     void Attack()
     {
         if (timer >= attackDelay)
