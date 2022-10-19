@@ -8,14 +8,13 @@ public class EnemyHealth : MonoBehaviour
     void OnCollisionEnter2D(Collision2D collision)
     {
         string otherTag = collision.gameObject.tag;
-        if (otherTag == "EnemyHarm")
+        if (otherTag == "PlayerDamage")
         {
             health--;
             if (health <= 0)
             {
                 Destroy(gameObject);
             }
-
         }
     }
 }
