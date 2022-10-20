@@ -8,7 +8,7 @@ public class EnemyMove : MonoBehaviour
     public float close = 15.0f;
 
 
-    public float speed = 3.0f;
+    public float speed = 2.0f;
 
     public Rigidbody2D rb;
     public Animator animator;
