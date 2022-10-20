@@ -32,7 +32,5 @@ public class EnemyMove : MonoBehaviour
         {
             rb.MovePosition(rb.position + chaseDir * 0);
         }
-        Debug.Log("5");
-        
     }
 }
