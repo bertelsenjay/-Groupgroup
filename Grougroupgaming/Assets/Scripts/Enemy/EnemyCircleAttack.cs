@@ -27,9 +27,9 @@ public class EnemyCircleAttack : MonoBehaviour
             Vector3 Dir = player.transform.position - transform.position;
             float Dist = Dir.magnitude;
             Dir.Normalize();
-            if (Dist >= close)
+            if (Dist <= close)
             {
-                Debug.Log("Close");
+                Debug.Log("Close To player");
                 if (timer >= attackDelay)
                 {
                     Debug.Log("Attack");
@@ -44,6 +44,7 @@ public class EnemyCircleAttack : MonoBehaviour
         animator.SetTrigger("Attack");
         Debug.Log("1");
         GameObject attackSpawn = Instantiate(attack, transform.position, Quaternion.identity);
+        Debug.Break();
         Destroy(attackSpawn, attackLifetime);
         audioSource.PlayOneShot(attackSound, 1.0f);
         timer = 0;
