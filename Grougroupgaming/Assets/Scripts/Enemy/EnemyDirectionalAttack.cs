@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyAttack : MonoBehaviour
+public class EnemyDirectionalAttack : MonoBehaviour
 {
     public GameObject player;
 
@@ -27,7 +27,7 @@ public class EnemyAttack : MonoBehaviour
             Vector3 Dir = player.transform.position - transform.position;
             float Dist = Dir.magnitude;
             Dir.Normalize();
-            if (Dist >= close)
+            if (Dist <= close)
             {
                 Debug.Log("Close");
                 if (timer >= attackDelay)
@@ -50,9 +50,12 @@ public class EnemyAttack : MonoBehaviour
 
     void Attack()
     {
+        Debug.Log("ATTACKING");
         Vector3 attackVector = (transform.position);
         Vector3 rightVector = attackVector += Vector3.right;
         Vector3 leftVector = attackVector += Vector3.left;
+        rightVector = rightVector += Vector3.right;
+        leftVector = leftVector += Vector3.left;
         animator.SetTrigger("Attack");
         if (attackRight)
         {
