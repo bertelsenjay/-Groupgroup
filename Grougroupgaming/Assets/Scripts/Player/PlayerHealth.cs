@@ -14,15 +14,20 @@ public class PlayerHealth : MonoBehaviour
     {
         healthText.text = "Health: " + health;
     }
-    private void OnCollisionEnter2D(Collision2D collision)
+    void OnCollisionEnter2D(Collision2D other)
     {
-        string otherTag = collision.gameObject.tag;
+        string otherTag = other.gameObject.tag;
         if (otherTag == "Enemy")
         {
             Debug.Log("otherTag = Enemy");
             takeDamage();
         }
-        else if (otherTag == "EnemyDamage")
+    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        string otherTag = other.gameObject.tag;
+        if (otherTag == "EnemyDamage")
         {
             Debug.Log("otherTag = EnemyDamage");
             takeDamage();

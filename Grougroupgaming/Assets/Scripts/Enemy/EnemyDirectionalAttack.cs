@@ -9,7 +9,7 @@ public class EnemyDirectionalAttack : MonoBehaviour
     public GameObject attack;
 
     public float attackLifetime = 1.0f;
-    public float attackDelay = 1.0f;
+    public float attackDelay = 3.0f;
     public float close = 2.0f;
     float timer = 0;
     bool attackRight;
@@ -29,11 +29,9 @@ public class EnemyDirectionalAttack : MonoBehaviour
             Dir.Normalize();
             if (Dist <= close)
             {
-                Debug.Log("Close");
                 if (timer >= attackDelay)
                 {
-                    Debug.Log("Attack");
-                    if (Input.GetAxis("Horizontal") >= 0)
+                    if (Dir.x >= 0)
                     {
                         attackRight = true;
                         Attack();
