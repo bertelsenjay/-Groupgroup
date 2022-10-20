@@ -123,6 +123,17 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!114 &5465680 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3552443023257620735, guid: 3e1f92ed53292344a8ed5a8993996007, type: 3}
+  m_PrefabInstance: {fileID: 533049440}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &176064675
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -934,6 +945,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 5406686740453030744, guid: e4ae07983e900c7498f52114ce445b2c, type: 3}
+      propertyPath: rb
+      value: 
+      objectReference: {fileID: 1518354752}
+    - target: {fileID: 5406686740453030744, guid: e4ae07983e900c7498f52114ce445b2c, type: 3}
+      propertyPath: animator
+      value: 
+      objectReference: {fileID: 1518354750}
+    - target: {fileID: 5406686740453030745, guid: e4ae07983e900c7498f52114ce445b2c, type: 3}
+      propertyPath: healthText
+      value: 
+      objectReference: {fileID: 5465680}
     - target: {fileID: 5406686740453030746, guid: e4ae07983e900c7498f52114ce445b2c, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -52340,6 +52363,16 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!95 &1518354750 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 6562469051819559693, guid: e4ae07983e900c7498f52114ce445b2c, type: 3}
+  m_PrefabInstance: {fileID: 486360833}
+  m_PrefabAsset: {fileID: 0}
+--- !u!50 &1518354752 stripped
+Rigidbody2D:
+  m_CorrespondingSourceObject: {fileID: 5406686740453030750, guid: e4ae07983e900c7498f52114ce445b2c, type: 3}
+  m_PrefabInstance: {fileID: 486360833}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1966881595
 PrefabInstance:
   m_ObjectHideFlags: 0

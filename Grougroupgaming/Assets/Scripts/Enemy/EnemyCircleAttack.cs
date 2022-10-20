@@ -10,7 +10,7 @@ public class EnemyCircleAttack : MonoBehaviour
 
     public float attackLifetime = 1.0f;
     public float attackDelay = 1.0f;
-    public float close = 2.0f;
+    public float close = 0.5f;
     float timer = 0;
     bool attackRight;
 
