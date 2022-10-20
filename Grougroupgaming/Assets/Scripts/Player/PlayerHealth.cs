@@ -19,10 +19,12 @@ public class PlayerHealth : MonoBehaviour
         string otherTag = collision.gameObject.tag;
         if (otherTag == "Enemy")
         {
+            Debug.Log("otherTag = Enemy");
             takeDamage();
         }
         else if (otherTag == "EnemyDamage")
         {
+            Debug.Log("otherTag = EnemyDamage");
             takeDamage();
         }
     }
