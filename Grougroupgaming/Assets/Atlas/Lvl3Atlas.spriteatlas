@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Lvl3Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1348884816, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: 1479321414, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: 1783470312, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: 3541334, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: -687878422, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: 1748972886, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: -40129429, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: -348807060, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: 1128442889, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: 704006792, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: 1962262881, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: 313663433, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: 648292068, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: -1975260669, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: -53686272, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: -1451973687, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: 221133132, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: 89262081, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: -45584423, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: -718561852, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: 1652789908, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  - {fileID: 1104251379, guid: 0d1448aca85df3f46a4df1b18e2f6a55, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Cavern-ground_5
+  - Cavern-ground_4
+  - Cavern-ground_7
+  - Cavern-ground_6
+  - Cavern-ground_1
+  - Cavern-ground_0
+  - Cavern-ground_3
+  - Cavern-ground_2
+  - Cavern-ground_9
+  - Cavern-ground_8
+  - Cavern-ground_18
+  - Cavern-ground_19
+  - Cavern-ground_14
+  - Cavern-ground_15
+  - Cavern-ground_16
+  - Cavern-ground_17
+  - Cavern-ground_10
+  - Cavern-ground_11
+  - Cavern-ground_12
+  - Cavern-ground_13
+  - Cavern-ground_21
+  - Cavern-ground_20
+  m_RenderDataMap: {}
+  m_Tag: Lvl3Atlas
+  m_IsVariant: 0
