@@ -7,11 +7,6 @@ public class NextLevel : MonoBehaviour
 {
     public Collider2D NextLevelCollider;
 
-    /*void Update()
-    {
-        
-    }*/
-
     void OnTriggerEnter2D(Collider2D other)
     {
         string otherTag = other.gameObject.tag;
