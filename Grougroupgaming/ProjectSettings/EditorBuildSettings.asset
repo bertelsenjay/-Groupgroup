@@ -15,18 +15,27 @@ EditorBuildSettings:
     path: Assets/Scenes/SimonSandbox.unity
     guid: 9b27a0b6206edbb4fbb3a9193829a00d
   - enabled: 1
-    path: Assets/Scenes/Levels/LevelTwoScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/StartScreen.unity
+    guid: 6cacf6f7c1e065d40a047ee16b0f0da4
   - enabled: 1
     path: Assets/Scenes/Levels/LevelOneScene.unity
     guid: 0dd64004f93cbaf4cabe6a175783f596
   - enabled: 1
-    path: Assets/Scenes/LoseScreen.unity
-    guid: 6bf7ab34d23c38a4982fa874949c413a
+    path: Assets/Scenes/Levels/LevelTwoScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/StartScreen.unity
-    guid: 6cacf6f7c1e065d40a047ee16b0f0da4
+    path: Assets/Scenes/Levels/LevelThreeScene.unity
+    guid: bce62b8f8c79cb94eb556e6d38833292
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelFourScene.unity
+    guid: 78b596fcbeba5114f8b0db775bc5c85a
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelFiveScene.unity
+    guid: b01be44970eda6649bc9ca50eb29e8e9
   - enabled: 1
     path: Assets/Scenes/WinScreen.unity
     guid: bed987076987b4443985424cc3db6d97
+  - enabled: 1
+    path: Assets/Scenes/LoseScreen.unity
+    guid: 6bf7ab34d23c38a4982fa874949c413a
   m_configObjects: {}
