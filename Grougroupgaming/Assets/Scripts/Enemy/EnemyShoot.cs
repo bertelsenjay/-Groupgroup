@@ -4,13 +4,16 @@ using UnityEngine;
 
 public class EnemyShoot : MonoBehaviour
 {
-    public GameObject bullet;
-    public float bulletSpeed = 8.0f;
-    public float bulletLifetime = 1.0f;
     public GameObject player;
+    public GameObject arrow;
+
+    public float arrowSpeed = 8.0f;
+    public float arrowLifetime = 1.0f;
+    public float shootDelay = 0;
+
     public float close = 5.0f;
     float timer = 0;
-    public float shootDelay = 0;
+
     void Update()
     {
         timer += Time.deltaTime;
@@ -24,9 +27,9 @@ public class EnemyShoot : MonoBehaviour
             {
                 Debug.Log("shoot");
                 timer = 0;
-                GameObject bulletSpawn = Instantiate(bullet, transform.position, Quaternion.identity);
-                bulletSpawn.GetComponent<Rigidbody2D>().velocity = shootDir * bulletSpeed;
-                Destroy(bulletSpawn, bulletLifetime);
+                GameObject bulletSpawn = Instantiate(arrow, transform.position, Quaternion.identity);
+                bulletSpawn.GetComponent<Rigidbody2D>().velocity = shootDir * arrowSpeed;
+                Destroy(bulletSpawn, arrowLifetime);
             }
         }
     }

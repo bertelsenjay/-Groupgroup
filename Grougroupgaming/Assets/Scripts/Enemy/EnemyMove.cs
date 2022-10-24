@@ -13,7 +13,7 @@ public class EnemyMove : MonoBehaviour
     public Rigidbody2D rb;
     public Animator animator;
 
-    public Vector2 chaseDir;
+    Vector2 chaseDir;
 
     void Update()
     {
