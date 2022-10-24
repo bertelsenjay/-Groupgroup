@@ -33,7 +33,6 @@ public class PlayerAttack : MonoBehaviour
         {
             animator.SetTrigger("Attack");
             GameObject attackSpawn = Instantiate(attack, transform.position, Quaternion.identity);
-            Debug.Log("1");
             Destroy(attackSpawn, attackLifetime);
             audioSource.PlayOneShot(attackSound, 1.0f);
             timer = 0;

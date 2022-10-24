@@ -22,6 +22,11 @@ public class PlayerHealth : MonoBehaviour
             Debug.Log("otherTag = Enemy");
             takeDamage();
         }
+        else if (otherTag == "EnemyDamage")
+        {
+            Debug.Log("otherTag = EnemyDamage");
+            takeDamage();
+        }
     }
 
     void OnTriggerEnter2D(Collider2D other)
