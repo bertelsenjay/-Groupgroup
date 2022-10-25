@@ -199,11 +199,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f028d80b45ae1c04881402f4d5a0663a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  animator: {fileID: 3837639558397496873}
   player: {fileID: 0}
-  arrowUp: {fileID: 0}
-  arrowRight: {fileID: 0}
-  arrowLeft: {fileID: 0}
-  arrowDown: {fileID: 0}
+  arrowUp: {fileID: 5959752468429196869, guid: ca760616e0bf24e4e8b49c3f0424cc80, type: 3}
+  arrowRight: {fileID: 7064974445207037613, guid: 47546bcd9d1526149987e405ec636568, type: 3}
+  arrowLeft: {fileID: 708085525924440307, guid: 5bf32b31c34d83840a9c99bb7ab02698, type: 3}
+  arrowDown: {fileID: 656667425123625193, guid: 3435e5e68cdc3ed408827b850199b907, type: 3}
   arrowSpeed: 8
   arrowLifetime: 1
   shootDelay: 0
