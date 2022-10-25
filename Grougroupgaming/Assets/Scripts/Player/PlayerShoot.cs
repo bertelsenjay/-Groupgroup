@@ -38,7 +38,7 @@ public class PlayerShoot : MonoBehaviour
                         Destroy(knifeSpawn, knifeLifetime);
                         timer = 0;
                         knives--;
-                        Camera.main.GetComponent<AudioSource>().PlayOneShot(shootSound);
+                        //Camera.main.GetComponent<AudioSource>().PlayOneShot(shootSound);
                     }
                 }
             }
