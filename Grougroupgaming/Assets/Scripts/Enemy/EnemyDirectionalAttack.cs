@@ -48,7 +48,6 @@ public class EnemyDirectionalAttack : MonoBehaviour
 
     void Attack()
     {
-        Debug.Log("ATTACKING");
         Vector3 attackVector = (transform.position);
         Vector3 rightVector = attackVector += Vector3.right;
         Vector3 leftVector = attackVector += Vector3.left;
@@ -57,14 +56,12 @@ public class EnemyDirectionalAttack : MonoBehaviour
         animator.SetTrigger("Attack");
         if (attackRight)
         {
-            Debug.Log("1");
             GameObject attackSpawn = Instantiate(attack, rightVector, Quaternion.identity);
             attackSpawn.transform.Rotate(0, 0, 90);
             Destroy(attackSpawn, attackLifetime);
         }
         else
         {
-            Debug.Log("2");
             GameObject attackSpawn = Instantiate(attack, leftVector, Quaternion.identity);
             attackSpawn.transform.Rotate(0, 0, 90);
             Destroy(attackSpawn, attackLifetime);

@@ -5,9 +5,8 @@ using UnityEngine;
 public class EnemyMove : MonoBehaviour
 {
     public GameObject player;
+
     public float close = 15.0f;
-
-
     public float speed = 2.0f;
 
     public Rigidbody2D rb;

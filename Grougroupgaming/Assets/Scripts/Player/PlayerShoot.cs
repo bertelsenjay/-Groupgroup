@@ -36,9 +36,9 @@ public class PlayerShoot : MonoBehaviour
                         shootDir.Normalize();
                         knifeSpawn.GetComponent<Rigidbody2D>().velocity = shootDir * knifeSpeed;
                         Destroy(knifeSpawn, knifeLifetime);
-                        //Camera.main.GetComponent<AudioSource>().PlayOneShot(shootSound);
                         timer = 0;
                         knives--;
+                        Camera.main.GetComponent<AudioSource>().PlayOneShot(shootSound);
                     }
                 }
             }
