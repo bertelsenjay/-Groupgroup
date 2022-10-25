@@ -28,35 +28,29 @@ public class EnemyShoot : MonoBehaviour
         shootDir.Normalize();
         if (shootDist <= close)
         {
-            Debug.Log("close");
             if (timer >= shootDelay)
             {
-                Debug.Log("shoot");
                 animator.SetTrigger("Attack");
                 if (shootAngle <= 45)
                 {
-                    Debug.Log("Shoot Up");
                     GameObject bulletSpawn = Instantiate(arrowUp, transform.position, Quaternion.identity);
                     bulletSpawn.GetComponent<Rigidbody2D>().velocity = shootDir * arrowSpeed;
                     Destroy(bulletSpawn, arrowLifetime);
                 }
                 else if (shootAngle >= 135)
                 {
-                    Debug.Log("Shoot Down");
                     GameObject bulletSpawn = Instantiate(arrowDown, transform.position, Quaternion.identity);
                     bulletSpawn.GetComponent<Rigidbody2D>().velocity = shootDir * arrowSpeed;
                     Destroy(bulletSpawn, arrowLifetime);
                 }
                 else if (shootDir.x >= 0)
                 {
-                    Debug.Log("Shoot Right");
                     GameObject bulletSpawn = Instantiate(arrowRight, transform.position, Quaternion.identity);
                     bulletSpawn.GetComponent<Rigidbody2D>().velocity = shootDir * arrowSpeed;
                     Destroy(bulletSpawn, arrowLifetime);
                 }
                 else
                 {
-                    Debug.Log("Shoot Left");
                     GameObject bulletSpawn = Instantiate(arrowLeft, transform.position, Quaternion.identity);
                     bulletSpawn.GetComponent<Rigidbody2D>().velocity = shootDir * arrowSpeed;
                     Destroy(bulletSpawn, arrowLifetime);

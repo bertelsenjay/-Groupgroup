@@ -10,6 +10,7 @@ public class PlayerHealth : MonoBehaviour
 {
     public int health = 5;
     public TextMeshProUGUI healthText;
+
     void Update()
     {
         healthText.text = "Health: " + health;

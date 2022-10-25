@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class PlayerShoot : MonoBehaviour
 {
@@ -8,11 +9,14 @@ public class PlayerShoot : MonoBehaviour
 
     public AudioClip shootSound;
 
-    public float knifeSpeed = 5.0f;
+    public float knifeSpeed = 50.0f;
     public float knifeLifetime = 1.0f;
-    public float shootDelay = 0;
+    public float shootDelay = 1.0f;
+    int knives = 10;
 
     float timer = 0;
+
+    public TextMeshProUGUI knivesText;
 
     void Update()
     {
@@ -23,18 +27,22 @@ public class PlayerShoot : MonoBehaviour
             {
                 if (timer >= shootDelay)
                 {
-                    GameObject knifeSpawn = Instantiate(knife, transform.position, Quaternion.identity);
-                    Vector3 mousePosition = Input.mousePosition;
-                    mousePosition = Camera.main.ScreenToWorldPoint(mousePosition);
-                    Vector3 shootDir = mousePosition - transform.position;
-                    shootDir.Normalize();
-                    knifeSpawn.GetComponent<Rigidbody2D>().velocity = shootDir * knifeSpeed;
-                    Destroy(knifeSpawn, knifeLifetime);
-                    Camera.main.GetComponent<AudioSource>().PlayOneShot(shootSound);
-                    timer = 0;
+                    if (knives >= 1)
+                    {
+                        GameObject knifeSpawn = Instantiate(knife, transform.position, Quaternion.identity);
+                        Vector3 mousePosition = Input.mousePosition;
+                        mousePosition = Camera.main.ScreenToWorldPoint(mousePosition);
+                        Vector3 shootDir = mousePosition - transform.position;
+                        shootDir.Normalize();
+                        knifeSpawn.GetComponent<Rigidbody2D>().velocity = shootDir * knifeSpeed;
+                        Destroy(knifeSpawn, knifeLifetime);
+                        //Camera.main.GetComponent<AudioSource>().PlayOneShot(shootSound);
+                        timer = 0;
+                        knives--;
+                    }
                 }
-
             }
         }
+        knivesText.text = "Knives: " + knives;
     }
 }
