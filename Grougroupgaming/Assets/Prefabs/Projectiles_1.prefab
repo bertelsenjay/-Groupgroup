@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 7029819515761890402}
   - component: {fileID: 6593455659013165464}
   - component: {fileID: 8851595588635073983}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Projectiles_1
-  m_TagString: Untagged
+  m_TagString: EnemyDamage
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -101,7 +101,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1

@@ -44,7 +44,6 @@ public class EnemyCircleAttack : MonoBehaviour
         animator.SetTrigger("Attack");
         Debug.Log("1");
         GameObject attackSpawn = Instantiate(attack, transform.position, Quaternion.identity);
-        Debug.Break();
         Destroy(attackSpawn, attackLifetime);
         audioSource.PlayOneShot(attackSound, 1.0f);
         timer = 0;
