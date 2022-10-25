@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class EnemyShoot : MonoBehaviour
 {
+    public Animator animator;
+
     public GameObject player;
     public GameObject arrowUp;
     public GameObject arrowRight;
@@ -30,6 +32,8 @@ public class EnemyShoot : MonoBehaviour
             if (timer >= shootDelay)
             {
                 Debug.Log("shoot");
+                animator.SetTrigger("Attack");
+                Debug.Break();
                 if (shootAngle <= 45)
                 {
                     Debug.Log("Shoot Up");
