@@ -16,7 +16,7 @@ public class EnemyShoot : MonoBehaviour
     public float arrowLifetime = 1.0f;
     public float shootDelay = 2.0f;
 
-    public float close = 5.0f;
+    public float close = 12.0f;
     float timer = 0;
 
     void Update()

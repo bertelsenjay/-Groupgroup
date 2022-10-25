@@ -1176,7 +1176,7 @@ PrefabInstance:
     - target: {fileID: 4136897835987424842, guid: e4ae07983e900c7498f52114ce445b2c, type: 3}
       propertyPath: knife
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 8399095722999970726, guid: 443cf6e062256ad46997f71b191ae770, type: 3}
     - target: {fileID: 4136897835987424842, guid: e4ae07983e900c7498f52114ce445b2c, type: 3}
       propertyPath: knifeSpeed
       value: 15

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyMove : MonoBehaviour
+public class EnemyShooterMove : MonoBehaviour
 {
     public GameObject player;
 
@@ -20,7 +20,7 @@ public class EnemyMove : MonoBehaviour
         float chaseDist = chaseDir.magnitude;
         chaseDir.Normalize();
 
-        if (chaseDist <= close)
+        if (chaseDist >= close)
         {
             rb.MovePosition(rb.position + chaseDir * speed * Time.fixedDeltaTime);
             animator.SetFloat("Horizontal", chaseDir.x);
