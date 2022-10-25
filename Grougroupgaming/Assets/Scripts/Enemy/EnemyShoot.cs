@@ -33,7 +33,6 @@ public class EnemyShoot : MonoBehaviour
             {
                 Debug.Log("shoot");
                 animator.SetTrigger("Attack");
-                Debug.Break();
                 if (shootAngle <= 45)
                 {
                     Debug.Log("Shoot Up");
