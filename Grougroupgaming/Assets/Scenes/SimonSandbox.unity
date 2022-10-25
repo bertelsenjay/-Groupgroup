@@ -1169,6 +1169,14 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4136897835987424835, guid: e4ae07983e900c7498f52114ce445b2c, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 7da17a8fe2f1b6748b9f7e1def137f91, type: 3}
+    - target: {fileID: 4136897835987424835, guid: e4ae07983e900c7498f52114ce445b2c, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4136897835987424840, guid: e4ae07983e900c7498f52114ce445b2c, type: 3}
       propertyPath: healthText
       value: 

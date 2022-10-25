@@ -11,7 +11,6 @@ public class EnemyHealth : MonoBehaviour
         if (otherTag == "PlayerDamage")
         {
             health--;
-            Debug.Log("Enemy Health = " + health);
             if (health <= 0)
             {
                 Destroy(gameObject);

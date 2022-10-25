@@ -20,12 +20,10 @@ public class PlayerHealth : MonoBehaviour
         string otherTag = other.gameObject.tag;
         if (otherTag == "Enemy")
         {
-            Debug.Log("otherTag = Enemy");
             takeDamage();
         }
         else if (otherTag == "EnemyDamage")
         {
-            Debug.Log("otherTag = EnemyDamage");
             takeDamage();
         }
     }
@@ -35,7 +33,6 @@ public class PlayerHealth : MonoBehaviour
         string otherTag = other.gameObject.tag;
         if (otherTag == "EnemyDamage")
         {
-            Debug.Log("otherTag = EnemyDamage");
             takeDamage();
         }
     }

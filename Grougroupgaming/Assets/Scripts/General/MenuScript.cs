@@ -9,6 +9,12 @@ public class MenuScript : MonoBehaviour
     {
         SceneManager.LoadScene("LevelOneScene");
     }
+
+    public void HowToPlay()
+    {
+        SceneManager.LoadScene("InstructionScene");
+    }
+
     public void Quit()
     {
         Application.Quit();
