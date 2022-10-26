@@ -283,6 +283,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Skeleboi (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6850611531046035517, guid: 96b6932e36d261242aa99253c904af6d, type: 3}
+      propertyPath: m_TagString
+      value: Skeleboi
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 96b6932e36d261242aa99253c904af6d, type: 3}
 --- !u!1001 &260787452
@@ -351,6 +355,10 @@ PrefabInstance:
     - target: {fileID: 6850611531046035517, guid: 96b6932e36d261242aa99253c904af6d, type: 3}
       propertyPath: m_Name
       value: Skeleboi (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6850611531046035517, guid: 96b6932e36d261242aa99253c904af6d, type: 3}
+      propertyPath: m_TagString
+      value: Skeleboi
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 96b6932e36d261242aa99253c904af6d, type: 3}
@@ -682,6 +690,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Skeleboi (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6850611531046035517, guid: 96b6932e36d261242aa99253c904af6d, type: 3}
+      propertyPath: m_TagString
+      value: Skeleboi
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 96b6932e36d261242aa99253c904af6d, type: 3}
 --- !u!1001 &1181124059
@@ -750,6 +762,10 @@ PrefabInstance:
     - target: {fileID: 6850611531046035517, guid: 96b6932e36d261242aa99253c904af6d, type: 3}
       propertyPath: m_Name
       value: Skeleboi (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6850611531046035517, guid: 96b6932e36d261242aa99253c904af6d, type: 3}
+      propertyPath: m_TagString
+      value: Skeleboi
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 96b6932e36d261242aa99253c904af6d, type: 3}
@@ -7989,6 +8005,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6850611531046035517, guid: 96b6932e36d261242aa99253c904af6d, type: 3}
       propertyPath: m_Name
+      value: Skeleboi
+      objectReference: {fileID: 0}
+    - target: {fileID: 6850611531046035517, guid: 96b6932e36d261242aa99253c904af6d, type: 3}
+      propertyPath: m_TagString
       value: Skeleboi
       objectReference: {fileID: 0}
     m_RemovedComponents: []
