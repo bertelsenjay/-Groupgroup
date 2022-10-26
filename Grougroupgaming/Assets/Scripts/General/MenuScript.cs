@@ -15,6 +15,11 @@ public class MenuScript : MonoBehaviour
         SceneManager.LoadScene("InstructionScene");
     }
 
+    public void Menu()
+    {
+        SceneManager.LoadScene("StartScreen");
+    }
+
     public void Quit()
     {
         Application.Quit();
