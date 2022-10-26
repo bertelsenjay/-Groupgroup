@@ -4,15 +4,12 @@ using UnityEngine;
 
 public class BossItemDestroy : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    void OnTriggerEnter2D(Collider2D other)
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        string otherTag = other.gameObject.tag;
+        if (otherTag == "Player")
+        {
+            Destroy(gameObject);
+        }
     }
 }

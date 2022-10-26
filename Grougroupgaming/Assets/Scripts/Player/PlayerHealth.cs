@@ -26,6 +26,10 @@ public class PlayerHealth : MonoBehaviour
         {
             takeDamage();
         }
+        else if (otherTag == "Boss")
+        {
+            takeDamage();
+        }
     }
 
     void OnTriggerEnter2D(Collider2D other)

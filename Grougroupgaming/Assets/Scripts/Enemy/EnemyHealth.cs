@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EnemyHealth : MonoBehaviour
 {
@@ -13,8 +14,17 @@ public class EnemyHealth : MonoBehaviour
             health--;
             if (health <= 0)
             {
-                Destroy(gameObject);
+                Kill();
             }
+        }
+    }
+
+    void Kill()
+    {
+        Destroy(gameObject);
+        if (gameObject.tag == "Boss")
+        {
+            SceneManager.LoadScene("WinScreen");
         }
     }
 }
