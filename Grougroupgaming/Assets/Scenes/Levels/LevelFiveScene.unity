@@ -44717,6 +44717,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Skeleboi King
       objectReference: {fileID: 0}
+    - target: {fileID: 516451649276257731, guid: 92b8fb91ee9ed9e4f9e430e2fb845b5e, type: 3}
+      propertyPath: m_TagString
+      value: Boss
+      objectReference: {fileID: 0}
     - target: {fileID: 516451649276257786, guid: 92b8fb91ee9ed9e4f9e430e2fb845b5e, type: 3}
       propertyPath: m_Size.x
       value: 0.37938708
