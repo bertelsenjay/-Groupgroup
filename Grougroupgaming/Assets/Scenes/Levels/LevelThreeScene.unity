@@ -7953,7 +7953,7 @@ PrefabInstance:
       objectReference: {fileID: 514713768}
     - target: {fileID: 6850611531046035514, guid: 96b6932e36d261242aa99253c904af6d, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6850611531046035515, guid: 96b6932e36d261242aa99253c904af6d, type: 3}
       propertyPath: player
@@ -7961,7 +7961,7 @@ PrefabInstance:
       objectReference: {fileID: 514713768}
     - target: {fileID: 6850611531046035515, guid: 96b6932e36d261242aa99253c904af6d, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6850611531046035517, guid: 96b6932e36d261242aa99253c904af6d, type: 3}
       propertyPath: m_Name
