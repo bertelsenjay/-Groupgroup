@@ -47,10 +47,11 @@ SpriteAtlas:
     - {fileID: 2800000, guid: 455c45635027b1f4a84f1c5dc52c6fa0, type: 3}
     - {fileID: 2800000, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
     - {fileID: 2800000, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
-    - {fileID: 2800000, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
+    - {fileID: 2800000, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
     - {fileID: 2800000, guid: e58edd3e2badbc245845024339ffbc42, type: 3}
     - {fileID: 2800000, guid: 8e6241ff6ac8f7b4f8dcdb26165e3be6, type: 3}
     - {fileID: 2800000, guid: c66f63be2d6ed374b83a7a77dc197aa2, type: 3}
+    - {fileID: 2800000, guid: 630739ee4592a4f4eb3c4be781d6ee8b, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -93,6 +94,28 @@ SpriteAtlas:
   - {fileID: -180870367, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
   - {fileID: -513861108, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
   - {fileID: 597114268, guid: 33695376e6e8f434eaf171c49a14104c, type: 3}
+  - {fileID: -395643711, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: -542903763, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: -1351961412, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: 1756141141, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: -540014088, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: -1522116511, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: 1010416692, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: 1242287415, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: 1740168077, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: -674613324, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: -2049209993, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: -181605427, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: 2093937280, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: -1389753247, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: -1783079421, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: 1370537381, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: 1837188097, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: 1308883763, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: 473346103, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: 872344609, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: -1503613393, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
+  - {fileID: 1895020294, guid: b6ab59a6f4b887943b05ec87ac179767, type: 3}
   - {fileID: 1765835066, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
   - {fileID: 997015619, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
   - {fileID: -1949738464, guid: 425d1b48a99cea64b8c98a54b024c591, type: 3}
@@ -172,6 +195,28 @@ SpriteAtlas:
   - Mountainside_7
   - Mountainside_4
   - Mountainside_5
+  - Mountians-ground_19
+  - Mountians-ground_18
+  - Mountians-ground_15
+  - Mountians-ground_14
+  - Mountians-ground_17
+  - Mountians-ground_16
+  - Mountians-ground_11
+  - Mountians-ground_10
+  - Mountians-ground_13
+  - Mountians-ground_12
+  - Mountians-ground_20
+  - Mountians-ground_21
+  - Mountians-ground_8
+  - Mountians-ground_9
+  - Mountians-ground_6
+  - Mountians-ground_7
+  - Mountians-ground_4
+  - Mountians-ground_5
+  - Mountians-ground_2
+  - Mountians-ground_3
+  - Mountians-ground_0
+  - Mountians-ground_1
   - TownGrassCliffs_3
   - TownGrassCliffs_2
   - TownGrassCliffs_1
