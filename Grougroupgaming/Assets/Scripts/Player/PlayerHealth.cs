@@ -35,6 +35,10 @@ public class PlayerHealth : MonoBehaviour
         {
             takeDamage();
         }
+        else if (otherTag == "HealingItem")
+        {
+            health++;
+        }
     }
 
     void takeDamage()
