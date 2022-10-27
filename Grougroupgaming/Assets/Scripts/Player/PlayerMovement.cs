@@ -22,7 +22,17 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("Horizontal", movement.x);
         animator.SetFloat("Vertical", movement.y);
         animator.SetFloat("Speed", movement.magnitude);
-        audioSource.PlayOneShot(walkSound, 1.0f);
+        if (movement.magnitude >= 0.01)
+        {
+            if (!audioSource.isPlaying)
+            {
+                audioSource.PlayOneShot(walkSound, 1.0f);
+            }
+        }
+        else
+        {
+            audioSource.Stop();
+        }
     }
 
     void FixedUpdate()
