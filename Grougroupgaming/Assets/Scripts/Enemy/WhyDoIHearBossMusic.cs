@@ -5,10 +5,11 @@ using UnityEngine;
 public class WhyDoIHearBossMusic : MonoBehaviour
 {
     public AudioSource audioSource;
+    public AudioClip bossMusic;
 
     void OnTriggerEnter2D(Collider2D collision)
     {
         audioSource = GetComponent<AudioSource>();
-        audioSource.Play(0);
+        audioSource.PlayOneShot(bossMusic, 9000f);
     }
 }

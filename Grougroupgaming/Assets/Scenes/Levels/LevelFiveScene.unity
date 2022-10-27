@@ -217,7 +217,7 @@ GameObject:
   - component: {fileID: 258459172}
   - component: {fileID: 258459171}
   - component: {fileID: 258459170}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Objects
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44928,7 +44928,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 516451649276257788, guid: 92b8fb91ee9ed9e4f9e430e2fb845b5e, type: 3}
       propertyPath: health
-      value: 50
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 516451649276257790, guid: 92b8fb91ee9ed9e4f9e430e2fb845b5e, type: 3}
       propertyPath: attack
