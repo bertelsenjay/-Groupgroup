@@ -9,7 +9,6 @@ TagManager:
   - Enemy
   - Skeleboi
   - Boss
-  - HealingItem
   layers:
   - Default
   - TransparentFX
