@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    public AudioSource audioSource;
+    public AudioClip walkSound;
     public float speed = 3.0f;
 
     public Rigidbody2D rb;
@@ -20,6 +22,7 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("Horizontal", movement.x);
         animator.SetFloat("Vertical", movement.y);
         animator.SetFloat("Speed", movement.magnitude);
+        audioSource.PlayOneShot(walkSound, 1.0f);
     }
 
     void FixedUpdate()
