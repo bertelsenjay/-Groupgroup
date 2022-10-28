@@ -426,7 +426,7 @@ RectTransform:
   m_Children:
   - {fileID: 250536738}
   m_Father: {fileID: 725199459}
-  m_RootOrder: 1
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -477,8 +477,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 725199455}
-        m_TargetAssemblyTypeName: MainMenuScript, Assembly-CSharp
+      - m_Target: {fileID: 725199460}
+        m_TargetAssemblyTypeName: LoseScreenScript, Assembly-CSharp
         m_MethodName: Quit
         m_Mode: 1
         m_Arguments:
@@ -644,7 +644,7 @@ RectTransform:
   m_Children:
   - {fileID: 102295383}
   m_Father: {fileID: 725199459}
-  m_RootOrder: 2
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -695,8 +695,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 725199455}
-        m_TargetAssemblyTypeName: MenuScript, Assembly-CSharp
+      - m_Target: {fileID: 725199460}
+        m_TargetAssemblyTypeName: LoseScreenScript, Assembly-CSharp
         m_MethodName: Menu
         m_Mode: 1
         m_Arguments:
@@ -757,7 +757,7 @@ GameObject:
   - component: {fileID: 725199458}
   - component: {fileID: 725199457}
   - component: {fileID: 725199456}
-  - component: {fileID: 725199455}
+  - component: {fileID: 725199460}
   m_Layer: 5
   m_Name: LoseMenuCanvas
   m_TagString: Untagged
@@ -765,18 +765,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &725199455
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 725199454}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d59a49645fbdbb64690dc28750cb1cba, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &725199456
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -850,11 +838,11 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 936284109}
+  - {fileID: 1685038858}
   - {fileID: 1839603810}
   - {fileID: 308655443}
   - {fileID: 617486219}
-  - {fileID: 936284109}
-  - {fileID: 1685038858}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -863,6 +851,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &725199460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 725199454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e152c640b6492744b985558e17109fcc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &936284108
 GameObject:
   m_ObjectHideFlags: 0
@@ -894,7 +894,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 725199459}
-  m_RootOrder: 3
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1166,7 +1166,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 725199459}
-  m_RootOrder: 4
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1305,7 +1305,7 @@ RectTransform:
   m_Children:
   - {fileID: 1961395739}
   m_Father: {fileID: 725199459}
-  m_RootOrder: 0
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1356,8 +1356,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 725199455}
-        m_TargetAssemblyTypeName: MainMenuScript, Assembly-CSharp
+      - m_Target: {fileID: 725199460}
+        m_TargetAssemblyTypeName: LoseScreenScript, Assembly-CSharp
         m_MethodName: StartGame
         m_Mode: 1
         m_Arguments:
