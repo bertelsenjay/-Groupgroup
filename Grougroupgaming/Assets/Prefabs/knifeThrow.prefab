@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2722345189912070337}
   - component: {fileID: 7692958702658324147}
   - component: {fileID: 8399095722999970729}
-  - component: {fileID: 3038305407189348273}
+  - component: {fileID: 7954443523457612865}
   m_Layer: 6
   m_Name: knifeThrow
   m_TagString: PlayerDamage
@@ -162,7 +162,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &3038305407189348273
+--- !u!114 &7954443523457612865
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -171,6 +171,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 8399095722999970726}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: decb17879f14864458cb701e065dfc1e, type: 3}
+  m_Script: {fileID: 11500000, guid: 002bd8a31560dce44be553fe5d005b30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 172228982112079351}
   - component: {fileID: 5404275803972540102}
   - component: {fileID: 7180395928377038537}
+  - component: {fileID: 7136451457116803024}
   m_Layer: 8
   m_Name: Projectiles_2
   m_TagString: EnemyDamage
@@ -133,3 +134,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.5024414, y: 0.15707779}
   m_EdgeRadius: 0
+--- !u!114 &7136451457116803024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7064974445207037613}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 002bd8a31560dce44be553fe5d005b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
