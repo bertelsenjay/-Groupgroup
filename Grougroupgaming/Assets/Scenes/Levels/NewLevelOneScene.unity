@@ -110740,7 +110740,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -110771,6 +110771,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &625887634 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8547938275716329523, guid: 3e1f92ed53292344a8ed5a8993996007, type: 3}
+  m_PrefabInstance: {fileID: 926299919}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &875396083
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -110959,6 +110970,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3e1f92ed53292344a8ed5a8993996007, type: 3}
+--- !u!1 &1053483658 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6330627666731934101, guid: 965cc19821d460740845edbf432ca988, type: 3}
+  m_PrefabInstance: {fileID: 2031988435}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1112705496 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4014830139913983664, guid: 3e1f92ed53292344a8ed5a8993996007, type: 3}
+  m_PrefabInstance: {fileID: 926299919}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1238765187
 GameObject:
   m_ObjectHideFlags: 0
@@ -111172,12 +111199,12 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1554600835}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 92fca7ed5178f224b931615f6a0cd392, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+  player: {fileID: 1053483658}
   attack: {fileID: 875396084}
   attackLifetime: 1
   attackDelay: 1
@@ -111192,7 +111219,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1554600835}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff5c81a615cde264ab2ed5e02f862d7f, type: 3}
   m_Name: 
@@ -111520,6 +111547,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 6330627666731934102, guid: 965cc19821d460740845edbf432ca988, type: 3}
+      propertyPath: knivesText
+      value: 
+      objectReference: {fileID: 625887634}
+    - target: {fileID: 6330627666731934104, guid: 965cc19821d460740845edbf432ca988, type: 3}
+      propertyPath: healthText
+      value: 
+      objectReference: {fileID: 1112705496}
     - target: {fileID: 6330627666731934111, guid: 965cc19821d460740845edbf432ca988, type: 3}
       propertyPath: m_RootOrder
       value: 3
