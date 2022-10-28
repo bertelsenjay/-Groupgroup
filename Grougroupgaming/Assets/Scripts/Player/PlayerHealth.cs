@@ -50,8 +50,7 @@ public class PlayerHealth : MonoBehaviour
         health--;
         if (health <= 0)
         {
-            Scene scene = SceneManager.GetActiveScene();
-            SceneManager.LoadScene(scene.name);
+            SceneManager.LoadScene("LoseScreen");
         }
     }
 }

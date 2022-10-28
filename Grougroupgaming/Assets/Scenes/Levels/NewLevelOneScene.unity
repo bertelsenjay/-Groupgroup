@@ -111555,6 +111555,10 @@ PrefabInstance:
       propertyPath: healthText
       value: 
       objectReference: {fileID: 1112705496}
+    - target: {fileID: 6330627666731934105, guid: 965cc19821d460740845edbf432ca988, type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 2031988436}
     - target: {fileID: 6330627666731934111, guid: 965cc19821d460740845edbf432ca988, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -111601,6 +111605,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 965cc19821d460740845edbf432ca988, type: 3}
+--- !u!82 &2031988436 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 6330627666731934106, guid: 965cc19821d460740845edbf432ca988, type: 3}
+  m_PrefabInstance: {fileID: 2031988435}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2134698894
 GameObject:
   m_ObjectHideFlags: 0
