@@ -150,6 +150,10 @@ PrefabInstance:
       propertyPath: healthText
       value: 
       objectReference: {fileID: 766088125}
+    - target: {fileID: 6330627666731934105, guid: 965cc19821d460740845edbf432ca988, type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 140399084}
     - target: {fileID: 6330627666731934106, guid: 965cc19821d460740845edbf432ca988, type: 3}
       propertyPath: Loop
       value: 0
@@ -228,6 +232,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 965cc19821d460740845edbf432ca988, type: 3}
+--- !u!82 &140399084 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 6330627666731934106, guid: 965cc19821d460740845edbf432ca988, type: 3}
+  m_PrefabInstance: {fileID: 140399083}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &260787452
 PrefabInstance:
   m_ObjectHideFlags: 0

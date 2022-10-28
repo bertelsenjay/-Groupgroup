@@ -1371,6 +1371,10 @@ PrefabInstance:
       propertyPath: healthText
       value: 
       objectReference: {fileID: 447930639}
+    - target: {fileID: 6330627666731934105, guid: 965cc19821d460740845edbf432ca988, type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 690100116}
     - target: {fileID: 6330627666731934108, guid: 965cc19821d460740845edbf432ca988, type: 3}
       propertyPath: m_Size.x
       value: 0.2535591
@@ -1445,6 +1449,11 @@ GameObject:
 --- !u!1 &690100115 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6330627666731934101, guid: 965cc19821d460740845edbf432ca988, type: 3}
+  m_PrefabInstance: {fileID: 690100113}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &690100116 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 6330627666731934106, guid: 965cc19821d460740845edbf432ca988, type: 3}
   m_PrefabInstance: {fileID: 690100113}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &732939632
