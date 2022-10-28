@@ -151,6 +151,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 766088125}
     - target: {fileID: 6330627666731934105, guid: 965cc19821d460740845edbf432ca988, type: 3}
+      propertyPath: walkSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 34eccbb77db82cd4aa1cb0b5889ea704, type: 3}
+    - target: {fileID: 6330627666731934105, guid: 965cc19821d460740845edbf432ca988, type: 3}
       propertyPath: audioSource
       value: 
       objectReference: {fileID: 140399084}
