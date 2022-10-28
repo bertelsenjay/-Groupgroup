@@ -111224,7 +111224,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff5c81a615cde264ab2ed5e02f862d7f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+  player: {fileID: 1053483658}
   close: 15
   speed: 2
   rb: {fileID: 1554600841}
@@ -111555,6 +111555,10 @@ PrefabInstance:
       propertyPath: healthText
       value: 
       objectReference: {fileID: 1112705496}
+    - target: {fileID: 6330627666731934105, guid: 965cc19821d460740845edbf432ca988, type: 3}
+      propertyPath: walkSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 34eccbb77db82cd4aa1cb0b5889ea704, type: 3}
     - target: {fileID: 6330627666731934105, guid: 965cc19821d460740845edbf432ca988, type: 3}
       propertyPath: audioSource
       value: 
