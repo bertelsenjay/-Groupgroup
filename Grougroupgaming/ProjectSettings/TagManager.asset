@@ -19,8 +19,8 @@ TagManager:
   - PlayerDamage
   - Enemy
   - EnemyDamage
-  - 
-  - 
+  - Boss
+  - BossObjects
   - 
   - 
   - 
