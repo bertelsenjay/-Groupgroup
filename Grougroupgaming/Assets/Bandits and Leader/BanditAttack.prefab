@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6903972548341838658}
   - component: {fileID: 1746822805037487875}
   - component: {fileID: 4206763300428856443}
+  - component: {fileID: 6691961194659011592}
   m_Layer: 8
   m_Name: BanditAttack
   m_TagString: EnemyDamage
@@ -70,3 +71,15 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.48
+--- !u!114 &6691961194659011592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7893303871499725247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 002bd8a31560dce44be553fe5d005b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

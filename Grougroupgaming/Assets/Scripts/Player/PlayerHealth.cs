@@ -39,6 +39,10 @@ public class PlayerHealth : MonoBehaviour
         {
             takeDamage();
         }
+        else if (otherTag == "BossDamage")
+        {
+            takeDamage();
+        }
         else if (otherTag == "HealingItem")
         {
             health++;

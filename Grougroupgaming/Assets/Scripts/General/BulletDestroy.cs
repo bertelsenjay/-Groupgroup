@@ -8,4 +8,9 @@ public class BulletDestroy : MonoBehaviour
     {
         Destroy(gameObject);
     }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        Destroy(gameObject);
+    }
 }
