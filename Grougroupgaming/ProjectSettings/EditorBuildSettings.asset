@@ -5,13 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/FatimaSandbox.unity
     guid: c8bfb6ba762c02a40b4fffdd79451f34
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/JacobSandbox.unity
     guid: 97a4195442b6d384e9218d5d4b5e1903
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SimonSandbox.unity
     guid: 9b27a0b6206edbb4fbb3a9193829a00d
   - enabled: 1
