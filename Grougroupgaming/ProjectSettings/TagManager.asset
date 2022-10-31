@@ -9,6 +9,7 @@ TagManager:
   - Enemy
   - Skeleboi
   - Boss
+  - BossDamage
   layers:
   - Default
   - TransparentFX
@@ -21,7 +22,7 @@ TagManager:
   - EnemyDamage
   - Boss
   - BossObjects
-  - 
+  - BossDamage
   - 
   - 
   - 
