@@ -23,7 +23,7 @@ TagManager:
   - Boss
   - BossObjects
   - BossDamage
-  - 
+  - NoKnifeCollide
   - 
   - 
   - 
